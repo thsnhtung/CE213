@@ -1,0 +1,64 @@
+C:/Users/Asus/Desktop/CE213/LT/Week3/Counter_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week3/Counter_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_tb
+
+Top level modules:
+	Counter_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/LT/Week3/DFF_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week3/DFF_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DFF_tb
+
+Top level modules:
+	DFF_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/LT/Week3/HAS_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week3/HAS_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HAS_tb
+
+Top level modules:
+	HAS_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/LT/Week3/Couter.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week3/Couter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} C:/Users/Asus/Desktop/CE213/LT/Week3/D_latch.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week3/D_latch.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_latch
+
+Top level modules:
+	D_latch
+
+} {} {}} C:/Users/Asus/Desktop/CE213/LT/Week3/counter_1bit.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week3/counter_1bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter_1bit
+
+Top level modules:
+	counter_1bit
+
+} {} {}} C:/Users/Asus/Desktop/AsynchronousCounter/D_flipflop.v {1 {vlog -work work C:/Users/Asus/Desktop/AsynchronousCounter/D_flipflop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_flipflop
+
+Top level modules:
+	D_flipflop
+
+} {} {}} C:/Users/Asus/Desktop/CE213/LT/Week3/HAS.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week3/HAS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HAS
+
+Top level modules:
+	HAS
+
+} {} {}} C:/Users/Asus/Desktop/CE213/LT/Week3/counter_1bit_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week3/counter_1bit_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter_1bit_tb
+
+Top level modules:
+	counter_1bit_tb
+
+} {} {}}
