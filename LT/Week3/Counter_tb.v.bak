@@ -1,5 +1,6 @@
+`timescale 1 ps/ 1 ps
 module Counter_tb();
-  parameter numOfParameter = 8;
+  parameter numOfParameter = 2;
   reg Enable_test;
   reg Direction_test;
   reg Reset_test;

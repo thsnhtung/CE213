@@ -1,8 +1,120 @@
-C:/Users/Asus/Desktop/CE213/TH/Lab1/DFF.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/DFF.v
+C:/Users/Asus/Desktop/CE213/TH/Lab1/Counter_sync.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Counter_sync.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module DFF
+-- Compiling module Counter_sync
 
 Top level modules:
-	DFF
+	Counter_sync
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_1bit.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_1bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_1bit
+
+Top level modules:
+	Register_1bit
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Counter_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Counter_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_tb
+
+Top level modules:
+	Counter_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_3bit.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_3bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_3bit
+
+Top level modules:
+	Register_3bit
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/LoadBlock_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/LoadBlock_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LoadBlock_tb
+
+Top level modules:
+	LoadBlock_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Adder_3bit.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Adder_3bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder_3bit
+
+Top level modules:
+	Adder_3bit
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_1bit_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_1bit_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_1bit_tb
+
+Top level modules:
+	Register_1bit_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_3bit_sync.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_3bit_sync.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_3bit_sync
+
+Top level modules:
+	Register_3bit_sync
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_3bit_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_3bit_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_3bit_tb
+
+Top level modules:
+	Register_3bit_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/LoadBlock.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/LoadBlock.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module LoadBlock
+
+Top level modules:
+	LoadBlock
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/D_flipflop_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/D_flipflop_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_flipflop_tb
+
+Top level modules:
+	D_flipflop_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Counter_async.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Counter_async.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_async
+
+Top level modules:
+	Counter_async
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Decoder.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Decoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_3bit_sync_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Register_3bit_sync_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_3bit_sync_tb
+
+Top level modules:
+	Register_3bit_sync_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/D_flipflop.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/D_flipflop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_flipflop
+
+Top level modules:
+	D_flipflop
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Encoder.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Encoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Encoder
+
+Top level modules:
+	Encoder
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab1/Decoder_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab1/Decoder_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder_tb
+
+Top level modules:
+	Decoder_tb
 
 } {} {}}

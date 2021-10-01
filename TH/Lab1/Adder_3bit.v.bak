@@ -1,0 +1,11 @@
+module Adder_3bit (
+	input [2:0]Input1,
+	input [2:0]Input2,
+	output wire [2:0]Result 
+);
+	
+
+	assign	Result = Input1 + Input2; 
+
+endmodule
+

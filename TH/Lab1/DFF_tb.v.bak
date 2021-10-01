@@ -1,0 +1,52 @@
+module DFF_tb();
+  reg CLK_test;
+  reg Load_test;
+  reg [2:0]Data_test; 
+  reg [2:0]D_test;
+  
+  wire [2:0]Q_test;
+  
+  
+DFF DFF_inst0(.CLK(CLK_test), .Load(Load_test), 
+               .Data(Data_test), .D(D_test), .Q(Q_test));
+               
+
+initial begin
+    CLK_test = 0;
+    Load_test = 0;
+    Data_test = 0;
+    D_test = 0;
+    
+    // $monitor("DATA: %d , %d", q_test, qbar_test);
+end
+/*
+always @(posedge CLK_test) begin
+  $monitor("Load: %d , Data:  %d, D:   %d, OUT:    %d", Load_test, Data_test, D_test, Q_test);
+end
+ 
+always @(Load_test) begin
+  $monitor("Inload, Load: %d , Data:  %d, D:   %d, OUT:    %d", Load_test, Data_test, D_test, Q_test);  
+end
+*/
+
+always begin
+  #5 CLK_test = ~CLK_test ; 
+end
+
+always begin
+  #7 Data_test = Data_test + 3 ; 
+end
+
+always begin
+  #50 Load_test = 0 ;
+  #20 Load_test = 1 ;
+end
+
+always begin
+  #16 D_test = D_test + 2 ; 
+end
+
+
+
+
+endmodule

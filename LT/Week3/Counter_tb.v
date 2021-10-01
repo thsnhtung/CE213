@@ -1,5 +1,6 @@
+`timescale 1 ps/ 1 ps
 module Counter_tb();
-  parameter numOfParameter = 4;
+  parameter numOfParameter = 2;
   reg Enable_test;
   reg Direction_test;
   reg Reset_test;
@@ -8,7 +9,7 @@ module Counter_tb();
   wire [numOfParameter-1: 0]DataOut_test;
 
 
-Counter#(.numOfBit(numOfParameter)) Counter_inst0(.Enable(Enable_test), 
+Counter Counter_inst0(.Enable(Enable_test), 
                         .Direction(Direction_test), .CLK(CLK_test), 
                         .Reset(Reset_test), .DataOut(DataOut_test));
                         
