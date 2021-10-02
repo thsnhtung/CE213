@@ -1,0 +1,14 @@
+module Decoder_1bit(In, Out);
+  input In;
+  output wire[1:0]Out;
+  reg one = 1;
+  assign Out = 1 << In;
+  mux_2to1 m0 (1'b0,  1'b0, 1'b0, 1'b0); 
+  
+  Out = {S[i - 1:0], S[63:i]};
+  
+endmodule
+  
+  
+  
+  

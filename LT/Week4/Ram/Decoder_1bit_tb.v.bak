@@ -1,0 +1,16 @@
+module Decoder_1bit_tb();
+  reg In_test;
+  wire Out_test;
+  
+  
+  
+Decoder_1bit Decoder_1bit_inst(.In(In_test), .Out(Out_test));
+
+
+initial begin
+  In_test = 0;
+  #10 In_test = 1;
+  #10 In_test = 0;
+end
+
+endmodule

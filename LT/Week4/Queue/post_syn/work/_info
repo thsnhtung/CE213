@@ -4,42 +4,42 @@ K3
 cModel Technology
 Z0 dC:\altera\13.0sp1
 vRam
-!i10b 1
 Z1 !s100 T?lUaTJdHE6>cSWXKbO`I3
 Z2 INzf^@J65oH_:zZbHIQgYB3
 Z3 VC]A9>^;kgYfU=4UGdjC__1
 Z4 dC:\Users\Asus\Desktop\Queue\post_syn
-Z5 w1633104684
+Z5 w1633143505
 Z6 8C:/Users/Asus/Desktop/Queue/post_syn/Ram.vo
 Z7 FC:/Users/Asus/Desktop/Queue/post_syn/Ram.vo
 L0 31
 Z8 OV;L;10.1d;51
 r1
-!s85 0
 31
-!s108 1633107126.714000
-!s107 C:/Users/Asus/Desktop/Queue/post_syn/Ram.vo|
 Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/post_syn/Ram.vo|
-!s101 -O0
 Z10 o-work work -O0
 n@ram
+!i10b 1
+!s85 0
+Z11 !s108 1633143914.057000
+Z12 !s107 C:/Users/Asus/Desktop/Queue/post_syn/Ram.vo|
+!s101 -O0
 vRam_tb
-Z11 !s100 1>9TCh0TlG]h`;LGILEaJ2
-Z12 I<aiJE5doj_JJVZ]1AV:NR0
-Z13 Vk1N=ni`DO;Q0SU6bPGLcP3
+!i10b 1
+Z13 !s100 2`T7TIe_Afe[HV@nW[3>l0
+Z14 IZb:_[baZObH62ZO;94d_Y3
+Z15 Vk1N=ni`DO;Q0SU6bPGLcP3
 R4
-Z14 w1633107109
-Z15 8C:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v
-Z16 FC:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v
+Z16 w1633143878
+Z17 8C:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v
+Z18 FC:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v
 L0 3
 R8
 r1
-31
-Z17 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v|
-R10
-Z18 n@ram_tb
-!i10b 1
 !s85 0
-Z19 !s108 1633107126.673000
-Z20 !s107 C:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v|
+31
+!s108 1633143915.188000
+!s107 C:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v|
 !s101 -O0
+R10
+Z20 n@ram_tb

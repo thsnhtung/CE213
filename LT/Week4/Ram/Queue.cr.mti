@@ -1,0 +1,85 @@
+C:/Users/Asus/Desktop/Queue/MemCell.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemCell.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemCell
+
+Top level modules:
+	MemCell
+
+} {} {}} C:/Users/Asus/Desktop/Queue/WordCell_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/WordCell_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WordCell_tb
+
+Top level modules:
+	WordCell_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/WordCell.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/WordCell.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WordCell
+
+Top level modules:
+	WordCell
+
+} {} {}} C:/Users/Asus/Desktop/Queue/MemCell_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemCell_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemCell_tb
+
+Top level modules:
+	MemCell_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Ram_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Ram_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ram_tb
+
+Top level modules:
+	Ram_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/MemBlock_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemBlock_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemBlock_tb
+
+Top level modules:
+	MemBlock_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/D_latch.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/D_latch.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_latch
+
+Top level modules:
+	D_latch
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Ram.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Ram.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ram
+
+Top level modules:
+	Ram
+
+} {} {}} C:/Users/Asus/Desktop/Queue/MemBlock.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemBlock.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemBlock
+
+Top level modules:
+	MemBlock
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Decoder_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Decoder_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder_tb
+
+Top level modules:
+	Decoder_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/D_latch_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/D_latch_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_latch_tb
+
+Top level modules:
+	D_latch_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Decoder.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Decoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}}

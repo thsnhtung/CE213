@@ -2,7 +2,7 @@ library verilog;
 use verilog.vl_types.all;
 entity WordCell is
     generic(
-        numOfBit        : integer := 8
+        numOfBit        : integer := 10
     );
     port(
         DataIn          : in     vl_logic_vector;

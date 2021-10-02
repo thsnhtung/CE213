@@ -16,7 +16,7 @@ initial begin
   RWS_test = 0;
   CS_test = 0;
   DataIn_test = 0;
-  #200
+  #20
 
   #10 DataIn_test = 7;
   Addr_test = 5 ;
@@ -52,6 +52,7 @@ end
 
 
 endmodule
+ 
  
  
   

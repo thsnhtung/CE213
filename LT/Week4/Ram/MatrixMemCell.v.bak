@@ -1,0 +1,6 @@
+module MatrixMemCell#(parameter bitPerColumn = 5, bitPerWord = 8)(DataIn, RowSelect, WriteEnable, DataOut);
+  input [bitPerWord-1:0]DataIn;
+  input [bitPerColumn-1:0]RowSelect;
+  input WriteEnable;
+  output [bitPerWord-1:0]DataOut;
+  

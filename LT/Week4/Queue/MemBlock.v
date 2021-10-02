@@ -1,4 +1,4 @@
-module MemBlock#(parameter Column = 2, bitPerWord = 8)(DataIn, RowSelect, WriteEn, DataOut);
+module MemBlock#(parameter Column =1024 , bitPerWord = 10)(DataIn, RowSelect, WriteEn, DataOut);
   input [bitPerWord-1:0]DataIn;
   input [Column-1:0]RowSelect;
   input WriteEn;

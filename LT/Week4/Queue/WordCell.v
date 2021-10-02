@@ -1,4 +1,4 @@
-module WordCell #(parameter numOfBit = 8)(DataIn, RowSelect, WriteEn, DataOut);
+module WordCell #(parameter numOfBit = 10)(DataIn, RowSelect, WriteEn, DataOut);
   input [numOfBit-1:0]DataIn;
   input RowSelect;
   input WriteEn;

@@ -1,9 +1,37 @@
-C:/Users/Asus/Desktop/Queue/MemCell.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemCell.v
+C:/Users/Asus/Desktop/Queue/Comparator_1bit.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Comparator_1bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Comparator_1bit
+
+Top level modules:
+	Comparator_1bit
+
+} {} {}} C:/Users/Asus/Desktop/Queue/MemCell.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemCell.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module MemCell
 
 Top level modules:
 	MemCell
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Counter_upper_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Counter_upper_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_upper_tb
+
+Top level modules:
+	Counter_upper_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Mux2to1.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Mux2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Counter.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Counter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
 
 } {} {}} C:/Users/Asus/Desktop/Queue/WordCell_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/WordCell_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -19,12 +47,33 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	WordCell
 
+} {} {}} C:/Users/Asus/Desktop/Queue/Comparator_1bit_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Comparator_1bit_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Comparator_1bit_tb
+
+Top level modules:
+	Comparator_1bit_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/HAS.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/HAS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HAS
+
+Top level modules:
+	HAS
+
 } {} {}} C:/Users/Asus/Desktop/Queue/MemCell_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemCell_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module MemCell_tb
 
 Top level modules:
 	MemCell_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Comparator_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Comparator_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Comparator_tb
+
+Top level modules:
+	Comparator_tb
 
 } {} {}} C:/Users/Asus/Desktop/Queue/Ram_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Ram_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -33,12 +82,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	Ram_tb
 
-} {} {}} C:/Users/Asus/Desktop/Queue/MemBlock_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemBlock_tb.v
+} {} {}} C:/Users/Asus/Desktop/Queue/Queue.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Queue.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module MemBlock_tb
+-- Compiling module Queue
 
 Top level modules:
-	MemBlock_tb
+	Queue
 
 } {} {}} C:/Users/Asus/Desktop/Queue/D_latch.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/D_latch.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -47,12 +96,54 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	D_latch
 
+} {} {}} C:/Users/Asus/Desktop/Queue/MemBlock_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemBlock_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemBlock_tb
+
+Top level modules:
+	MemBlock_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Counter_1bit.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Counter_1bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_1bit
+
+Top level modules:
+	Counter_1bit
+
+} {} {}} C:/Users/Asus/Desktop/Queue/D_flipflop.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/D_flipflop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_flipflop
+
+Top level modules:
+	D_flipflop
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Mux2to1_1bit.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Mux2to1_1bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1_1bit
+
+Top level modules:
+	Mux2to1_1bit
+
 } {} {}} C:/Users/Asus/Desktop/Queue/Ram.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Ram.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module Ram
 
 Top level modules:
 	Ram
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Comparator.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Comparator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Comparator
+
+Top level modules:
+	Comparator
+
+} {} {}} C:/Users/Asus/Desktop/Queue/QuantityChecker_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/QuantityChecker_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module QuantityChecker_tb
+
+Top level modules:
+	QuantityChecker_tb
 
 } {} {}} C:/Users/Asus/Desktop/Queue/MemBlock.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/MemBlock.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -61,6 +152,20 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	MemBlock
 
+} {} {}} C:/Users/Asus/Desktop/Queue/Queue_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Queue_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Queue_tb
+
+Top level modules:
+	Queue_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Counter_upper.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Counter_upper.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_upper
+
+Top level modules:
+	Counter_upper
+
 } {} {}} C:/Users/Asus/Desktop/Queue/Decoder_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Decoder_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module Decoder_tb
@@ -68,12 +173,33 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	Decoder_tb
 
+} {} {}} C:/Users/Asus/Desktop/Queue/QuantityChecker.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/QuantityChecker.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module QuantityChecker
+
+Top level modules:
+	QuantityChecker
+
 } {} {}} C:/Users/Asus/Desktop/Queue/D_latch_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/D_latch_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module D_latch_tb
 
 Top level modules:
 	D_latch_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Counter_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Counter_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_tb
+
+Top level modules:
+	Counter_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/Mux2to1_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Mux2to1_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux2to1_tb
+
+Top level modules:
+	Mux2to1_tb
 
 } {} {}} C:/Users/Asus/Desktop/Queue/Decoder.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/Decoder.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012

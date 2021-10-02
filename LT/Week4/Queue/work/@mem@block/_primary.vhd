@@ -2,8 +2,8 @@ library verilog;
 use verilog.vl_types.all;
 entity MemBlock is
     generic(
-        Column          : integer := 2;
-        bitPerWord      : integer := 8
+        Column          : integer := 1024;
+        bitPerWord      : integer := 10
     );
     port(
         DataIn          : in     vl_logic_vector;

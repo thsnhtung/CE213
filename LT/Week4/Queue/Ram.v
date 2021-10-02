@@ -1,10 +1,10 @@
-module Ram #(parameter bitOfColumn = 5, bitPerWord = 8)(Addr, DataIn, RWS, CS, DataOut);
+module Ram #(parameter bitOfColumn = 10, bitPerWord = 10)(Addr, DataIn, RWS, CS, DataOut);
   input [bitPerWord-1:0] DataIn;
   output [bitPerWord-1:0] DataOut;
   input [bitOfColumn-1:0]Addr;
   input RWS;
   input CS;
-  parameter Column = 2**5;
+  parameter Column = 2**bitOfColumn;
   wire [Column-1:0]Out_RowSelect;
   wire WriteEn;
   wire [bitPerWord-1:0]DataOut_buf;
@@ -15,6 +15,7 @@ and a1(WriteEn, RWS, CS);
 and a2(ReadEn, not_RWS, CS);
 
 bufif1 b1[bitPerWord-1:0](DataOut[bitPerWord-1:0],DataOut_buf[bitPerWord-1:0], ReadEn);
+
   
 Decoder#(.numOfBit(bitOfColumn)) Decoder_inst0(.In(Addr), .Out(Out_RowSelect));
 MemBlock#(.Column(Column), .bitPerWord(bitPerWord)) MemBlock_inst0(.DataIn(DataIn), .RowSelect(Out_RowSelect), .WriteEn(WriteEn), .DataOut(DataOut_buf));  

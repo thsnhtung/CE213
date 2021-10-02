@@ -1,0 +1,15 @@
+C:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/post_syn/Ram_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ram_tb
+
+Top level modules:
+	Ram_tb
+
+} {} {}} C:/Users/Asus/Desktop/Queue/post_syn/Ram.vo {1 {vlog -work work C:/Users/Asus/Desktop/Queue/post_syn/Ram.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ram
+
+Top level modules:
+	Ram
+
+} {} {}}

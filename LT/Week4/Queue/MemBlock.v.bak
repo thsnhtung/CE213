@@ -1,4 +1,4 @@
-module MemBlock#(parameter Column = 2, bitPerWord = 8)(DataIn, RowSelect, WriteEn, DataOut);
+module MemBlock#(parameter Column , bitPerWord = 10)(DataIn, RowSelect, WriteEn, DataOut);
   input [bitPerWord-1:0]DataIn;
   input [Column-1:0]RowSelect;
   input WriteEn;
@@ -11,7 +11,7 @@ WordCell #(.numOfBit(bitPerWord)) WordCell_inst[bitPerColumn-1:0](.DataIn(DataIn
 
 genvar i;
 generate
-    for (i=0; i< bitPerColumn; i=i+1) begin : memblock
+    for (i=0; i< Column; i=i+1) begin : memblock
         WordCell WordCell_inst(.DataIn(DataIn[bitPerWord-1:0]), .RowSelect(RowSelect[i]), .WriteEn(WriteEn), .DataOut(DataOut[bitPerWord-1:0]));  
 end 
 endgenerate

@@ -1,0 +1,305 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vD_latch
+Z1 !s100 PU`Q6eUgmd[YYAmRP2<?k3
+Z2 IG9L>8ld2U>bQ9<mAfOh0]3
+Z3 V4hQYJL21HZI3gUU<8MA`h1
+Z4 dC:\Users\Asus\Desktop\Queue
+Z5 w1633069903
+Z6 8C:/Users/Asus/Desktop/Queue/D_latch.v
+Z7 FC:/Users/Asus/Desktop/Queue/D_latch.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/D_latch.v|
+Z10 o-work work -O0
+Z11 n@d_latch
+Z12 !s108 1633106195.987000
+Z13 !s107 C:/Users/Asus/Desktop/Queue/D_latch.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vD_latch_tb
+Z14 !s100 <aVbRiZUNb=1NfzNQbokO0
+Z15 I57dLaNhb0D3FzlDV;ES5H3
+Z16 V<NUS8[cdZS29?<XTdzVcZ1
+R4
+Z17 w1633072175
+Z18 8C:/Users/Asus/Desktop/Queue/D_latch_tb.v
+Z19 FC:/Users/Asus/Desktop/Queue/D_latch_tb.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/D_latch_tb.v|
+R10
+Z21 n@d_latch_tb
+Z22 !s108 1633106196.030000
+Z23 !s107 C:/Users/Asus/Desktop/Queue/D_latch_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder
+Z24 !s100 _6:FXO@LI1;m3PSYU2`5M0
+Z25 I;EcD68Pi^QN@3Q55E2f@E3
+Z26 V`BzXi=;U4CMZNJ?CBSXJW3
+R4
+Z27 w1633100644
+Z28 8C:/Users/Asus/Desktop/Queue/Decoder.v
+Z29 FC:/Users/Asus/Desktop/Queue/Decoder.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/Decoder.v|
+R10
+Z31 n@decoder
+Z32 !s108 1633106196.346000
+Z33 !s107 C:/Users/Asus/Desktop/Queue/Decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder_1bit
+Z34 INVEoh?eMP5RfXnjFhXNbG1
+Z35 VzF8akW1R@0IcnlOjh7Md_3
+R4
+Z36 w1633094682
+Z37 8C:/Users/Asus/Desktop/Queue/Decoder_1bit.v
+Z38 FC:/Users/Asus/Desktop/Queue/Decoder_1bit.v
+L0 1
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/Decoder_1bit.v|
+R10
+Z40 n@decoder_1bit
+Z41 !s100 27Hk=8o_XkziOQi3PBZ[F2
+Z42 !s108 1633094684.931000
+Z43 !s107 C:/Users/Asus/Desktop/Queue/Decoder_1bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder_1bit_tb
+Z44 !s100 ^fE8jgh_W7bf44_I1`khi1
+Z45 I:dk9[bd6WbhKc_IH8@5DO2
+Z46 VS2;PLSH<`a<4c?jJ[oPDd0
+R4
+Z47 w1633090755
+Z48 8C:/Users/Asus/Desktop/Queue/Decoder_1bit_tb.v
+Z49 FC:/Users/Asus/Desktop/Queue/Decoder_1bit_tb.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/Decoder_1bit_tb.v|
+R10
+Z51 n@decoder_1bit_tb
+Z52 !s108 1633094283.163000
+Z53 !s107 C:/Users/Asus/Desktop/Queue/Decoder_1bit_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDecoder_tb
+Z54 !s100 :YH][61^E_1kDV7nDMDlA0
+Z55 I[TSJd_@zdUj>Lb2L55GOU2
+Z56 VHeANVhBX;G[1^91z03SE51
+R4
+Z57 w1633100651
+Z58 8C:/Users/Asus/Desktop/Queue/Decoder_tb.v
+Z59 FC:/Users/Asus/Desktop/Queue/Decoder_tb.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/Decoder_tb.v|
+R10
+Z61 n@decoder_tb
+Z62 !s108 1633106196.389000
+Z63 !s107 C:/Users/Asus/Desktop/Queue/Decoder_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMatrixMemCell
+Z64 !s100 =cYJnYCST^FC1STbnhAnE3
+Z65 I;k4U^22d]@FJ^6B8Na1I`2
+Z66 VU`kLkE:]:FEn`E2_Ge>@^0
+R4
+Z67 w1633072639
+Z68 8C:/Users/Asus/Desktop/Queue/MatrixMemCell.v
+Z69 FC:/Users/Asus/Desktop/Queue/MatrixMemCell.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/MatrixMemCell.v|
+R10
+Z71 n@matrix@mem@cell
+Z72 !s108 1633073086.909000
+Z73 !s107 C:/Users/Asus/Desktop/Queue/MatrixMemCell.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemBlock
+Z74 !s100 N[@G:=5QBi[kcaCMPJ0<T2
+Z75 Ikfz<LL76?i]]7EbDI8QN_1
+Z76 VNhR:km4RL_LW^DIldkK<n1
+R4
+Z77 w1633096275
+Z78 8C:/Users/Asus/Desktop/Queue/MemBlock.v
+Z79 FC:/Users/Asus/Desktop/Queue/MemBlock.v
+L0 1
+R8
+r1
+31
+Z80 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/MemBlock.v|
+R10
+Z81 n@mem@block
+Z82 !s108 1633106196.263000
+Z83 !s107 C:/Users/Asus/Desktop/Queue/MemBlock.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemBlock_tb
+Z84 !s100 kdliC>;;DBZN8;]?NU3]m0
+Z85 IoD85:eeZNczSI`=;Q422j3
+Z86 Vo2JQdfOM5QKHj]:jMkc[a0
+R4
+Z87 w1633100402
+Z88 8C:/Users/Asus/Desktop/Queue/MemBlock_tb.v
+Z89 FC:/Users/Asus/Desktop/Queue/MemBlock_tb.v
+L0 1
+R8
+r1
+31
+Z90 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/MemBlock_tb.v|
+R10
+Z91 n@mem@block_tb
+Z92 !s108 1633106196.305000
+Z93 !s107 C:/Users/Asus/Desktop/Queue/MemBlock_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemCell
+Z94 !s100 D1`TF2XbV3MfmQ[86`U9^1
+Z95 IYN9EkdC5OdT:WERTNQ=`i3
+Z96 VSAgOfRfRlL`dL[a88ei651
+R4
+Z97 w1633071798
+Z98 8C:/Users/Asus/Desktop/Queue/MemCell.v
+Z99 FC:/Users/Asus/Desktop/Queue/MemCell.v
+L0 1
+R8
+r1
+31
+Z100 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/MemCell.v|
+R10
+Z101 n@mem@cell
+Z102 !s108 1633106196.073000
+Z103 !s107 C:/Users/Asus/Desktop/Queue/MemCell.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemCell_tb
+Z104 !s100 UTJLDQ74Ga80L2eS^kS^a2
+Z105 IHKfLicl??ebW;l]iiDVO]1
+Z106 VE>6oG0GjAnEoXd74Uh:>H3
+R4
+Z107 w1633072030
+Z108 8C:/Users/Asus/Desktop/Queue/MemCell_tb.v
+Z109 FC:/Users/Asus/Desktop/Queue/MemCell_tb.v
+L0 1
+R8
+r1
+31
+Z110 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/MemCell_tb.v|
+R10
+Z111 n@mem@cell_tb
+Z112 !s108 1633106196.114000
+Z113 !s107 C:/Users/Asus/Desktop/Queue/MemCell_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRam
+Z114 !s100 :W1olViSNTFWUl77:BHdH0
+Z115 IIBbW;6AB8HcMiBHXoZgFV2
+Z116 VhfkjEN3N:]RVdJfNK1AJn1
+R4
+Z117 w1633104924
+Z118 8C:/Users/Asus/Desktop/Queue/Ram.v
+Z119 FC:/Users/Asus/Desktop/Queue/Ram.v
+L0 30
+R8
+r1
+31
+Z120 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/Ram.v|
+R10
+n@ram
+!i10b 1
+!s85 0
+Z121 !s108 1633106196.431000
+Z122 !s107 C:/Users/Asus/Desktop/Queue/Ram.v|
+!s101 -O0
+vRam_tb
+!i10b 1
+Z123 !s100 _Qaf7R`A7Nn?z]_DA`zWD0
+Z124 Il_g;dHgb^CU1L2<>m5X9<1
+Z125 Vk1N=ni`DO;Q0SU6bPGLcP3
+R4
+Z126 w1633106121
+Z127 8C:/Users/Asus/Desktop/Queue/Ram_tb.v
+Z128 FC:/Users/Asus/Desktop/Queue/Ram_tb.v
+L0 62
+R8
+r1
+!s85 0
+31
+!s108 1633106196.471000
+!s107 C:/Users/Asus/Desktop/Queue/Ram_tb.v|
+Z129 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/Ram_tb.v|
+!s101 -O0
+R10
+Z130 n@ram_tb
+vWordCell
+Z131 !s100 ]V?oSGJ7XO0fl@=[@W<VG0
+Z132 I2]<<eYhQ0SXWOeRn4gc9h2
+Z133 V8UF6ghMDIXFL^A7>I^Noh2
+R4
+Z134 w1633073084
+Z135 8C:/Users/Asus/Desktop/Queue/WordCell.v
+Z136 FC:/Users/Asus/Desktop/Queue/WordCell.v
+L0 1
+R8
+r1
+31
+Z137 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/WordCell.v|
+R10
+Z138 n@word@cell
+Z139 !s108 1633106196.178000
+Z140 !s107 C:/Users/Asus/Desktop/Queue/WordCell.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vWordCell_tb
+Z141 !s100 4;BOKUHSH>i7dV=Yg[OZ]0
+Z142 InQb;gK4nYV`jJgdVRRk@S0
+Z143 V;1@79NjPoId1Cz`Nj:;OD1
+R4
+Z144 w1633076565
+Z145 8C:/Users/Asus/Desktop/Queue/WordCell_tb.v
+Z146 FC:/Users/Asus/Desktop/Queue/WordCell_tb.v
+L0 1
+R8
+r1
+31
+Z147 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/WordCell_tb.v|
+R10
+Z148 n@word@cell_tb
+Z149 !s108 1633106196.220000
+Z150 !s107 C:/Users/Asus/Desktop/Queue/WordCell_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0

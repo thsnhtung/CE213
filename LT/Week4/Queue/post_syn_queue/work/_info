@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vQueue
+Z1 !s100 De<jHk3ceXI?T4Ah:eCkJ3
+Z2 I>;0af]k]?:d]WE6@MDUFj2
+Z3 VK`5aaUKbDdlSdcoD@WGe10
+Z4 dC:\Users\Asus\Desktop\Queue\post_syn_queue
+Z5 w1633189776
+Z6 8C:/Users/Asus/Desktop/Queue/post_syn_queue/Queue.vo
+Z7 FC:/Users/Asus/Desktop/Queue/post_syn_queue/Queue.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/post_syn_queue/Queue.vo|
+Z10 o-work work -O0
+Z11 n@queue
+!i10b 1
+!s85 0
+Z12 !s108 1633190978.278000
+Z13 !s107 C:/Users/Asus/Desktop/Queue/post_syn_queue/Queue.vo|
+!s101 -O0
+vQueue_tb
+!i10b 1
+!s100 Oo2b<8RRhzniQF03cJ:4I3
+IL9IUAM_i9>0DU2ne76@TO1
+Z14 VHXfh]I4Z10?::nonH0=7;2
+R4
+w1633190933
+Z15 8C:/Users/Asus/Desktop/Queue/post_syn_queue/Queue_tb.v
+Z16 FC:/Users/Asus/Desktop/Queue/post_syn_queue/Queue_tb.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1633190978.340000
+!s107 C:/Users/Asus/Desktop/Queue/post_syn_queue/Queue_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/Queue/post_syn_queue/Queue_tb.v|
+!s101 -O0
+R10
+Z18 n@queue_tb
