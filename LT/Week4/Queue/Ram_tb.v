@@ -1,3 +1,4 @@
+/*
 module Ram_tb();
   parameter bitPerWord = 8;
   parameter bitOfColumn = 5;
@@ -55,9 +56,9 @@ end
 
 endmodule
 
+*/
+`timescale 1ps/1ps
 
-
-/*
 module Ram_tb();
   parameter bitPerWord = 8;
   parameter bitOfColumn = 5;
@@ -67,7 +68,7 @@ module Ram_tb();
   wire [bitPerWord-1:0]DataOut_test;
   
 
-Ram #(.bitOfColumn(bitOfColumn), .bitPerWord(bitPerWord)) Ram32x32_inst0(.Addr(Addr_test), .DataIn(DataIn_test), .RWS(RWS_test), .CS(CS_test), .DataOut(DataOut_test));  
+Ram Ram32x32_inst0(.Addr(Addr_test), .DataIn(DataIn_test), .RWS(RWS_test), .CS(CS_test), .DataOut(DataOut_test));  
 
 initial begin
   Addr_test = 0;
@@ -111,6 +112,6 @@ end
 
 endmodule
  
- */
+ 
   
   

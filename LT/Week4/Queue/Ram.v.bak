@@ -1,4 +1,5 @@
-module Ram #(parameter bitOfColumn = 5, bitPerWord = 8)(Addr, Data, RWS, CS, check_dataIn);
+/*
+module Ram #(parameter bitOfColumn = 5, bitPerWord = 8)(Addr, Data, RWS, CS);
   inout [bitPerWord-1:0] Data;
   input [bitOfColumn-1:0]Addr;
   input RWS;
@@ -23,8 +24,9 @@ Decoder#(.numOfBit(bitOfColumn)) Decoder_inst0(.In(Addr), .Out(Out_RowSelect));
 MemBlock#(.Column(Column), .bitPerWord(bitPerWord)) MemBlock_inst0(.DataIn(BusIn), .RowSelect(Out_RowSelect), .WriteEn(WriteEn), .DataOut(BusOut));  
   
 endmodule   
+*/
 
-/*
+
 module Ram #(parameter bitOfColumn = 5, bitPerWord = 8)(Addr, DataIn, RWS, CS, DataOut);
   input [bitPerWord-1:0] DataIn;
   output [bitPerWord-1:0] DataOut;
@@ -43,5 +45,3 @@ MemBlock#(.Column(Column), .bitPerWord(bitPerWord)) MemBlock_inst0(.DataIn(DataI
   
 endmodule 
 
-
-*/
