@@ -1,0 +1,4934 @@
+|Moore
+Start => Start.IN1
+CLK => CLK.IN2
+input_data[0] => input_data[0].IN1
+input_data[1] => input_data[1].IN1
+input_data[2] => input_data[2].IN1
+input_data[3] => input_data[3].IN1
+input_data[4] => input_data[4].IN1
+input_data[5] => input_data[5].IN1
+input_data[6] => input_data[6].IN1
+input_data[7] => input_data[7].IN1
+input_data[8] => input_data[8].IN1
+input_data[9] => input_data[9].IN1
+input_data[10] => input_data[10].IN1
+input_data[11] => input_data[11].IN1
+input_data[12] => input_data[12].IN1
+input_data[13] => input_data[13].IN1
+input_data[14] => input_data[14].IN1
+input_data[15] => input_data[15].IN1
+input_data[16] => input_data[16].IN1
+input_data[17] => input_data[17].IN1
+input_data[18] => input_data[18].IN1
+input_data[19] => input_data[19].IN1
+input_data[20] => input_data[20].IN1
+input_data[21] => input_data[21].IN1
+input_data[22] => input_data[22].IN1
+input_data[23] => input_data[23].IN1
+input_data[24] => input_data[24].IN1
+input_data[25] => input_data[25].IN1
+input_data[26] => input_data[26].IN1
+input_data[27] => input_data[27].IN1
+input_data[28] => input_data[28].IN1
+input_data[29] => input_data[29].IN1
+input_data[30] => input_data[30].IN1
+input_data[31] => input_data[31].IN1
+input_data[32] => input_data[32].IN1
+input_data[33] => input_data[33].IN1
+input_data[34] => input_data[34].IN1
+input_data[35] => input_data[35].IN1
+input_data[36] => input_data[36].IN1
+input_data[37] => input_data[37].IN1
+input_data[38] => input_data[38].IN1
+input_data[39] => input_data[39].IN1
+input_data[40] => input_data[40].IN1
+input_data[41] => input_data[41].IN1
+input_data[42] => input_data[42].IN1
+input_data[43] => input_data[43].IN1
+input_data[44] => input_data[44].IN1
+input_data[45] => input_data[45].IN1
+input_data[46] => input_data[46].IN1
+input_data[47] => input_data[47].IN1
+input_data[48] => input_data[48].IN1
+input_data[49] => input_data[49].IN1
+input_data[50] => input_data[50].IN1
+input_data[51] => input_data[51].IN1
+input_data[52] => input_data[52].IN1
+input_data[53] => input_data[53].IN1
+input_data[54] => input_data[54].IN1
+input_data[55] => input_data[55].IN1
+input_data[56] => input_data[56].IN1
+input_data[57] => input_data[57].IN1
+input_data[58] => input_data[58].IN1
+input_data[59] => input_data[59].IN1
+input_data[60] => input_data[60].IN1
+input_data[61] => input_data[61].IN1
+input_data[62] => input_data[62].IN1
+input_data[63] => input_data[63].IN1
+out[0] <= Datapath:a2.Out
+out[1] <= Datapath:a2.Out
+out[2] <= Datapath:a2.Out
+out[3] <= Datapath:a2.Out
+out[4] <= Datapath:a2.Out
+out[5] <= Datapath:a2.Out
+out[6] <= Datapath:a2.Out
+out[7] <= Datapath:a2.Out
+out[8] <= Datapath:a2.Out
+out[9] <= Datapath:a2.Out
+out[10] <= Datapath:a2.Out
+out[11] <= Datapath:a2.Out
+out[12] <= Datapath:a2.Out
+out[13] <= Datapath:a2.Out
+out[14] <= Datapath:a2.Out
+out[15] <= Datapath:a2.Out
+out[16] <= Datapath:a2.Out
+out[17] <= Datapath:a2.Out
+out[18] <= Datapath:a2.Out
+out[19] <= Datapath:a2.Out
+out[20] <= Datapath:a2.Out
+out[21] <= Datapath:a2.Out
+out[22] <= Datapath:a2.Out
+out[23] <= Datapath:a2.Out
+out[24] <= Datapath:a2.Out
+out[25] <= Datapath:a2.Out
+out[26] <= Datapath:a2.Out
+out[27] <= Datapath:a2.Out
+out[28] <= Datapath:a2.Out
+out[29] <= Datapath:a2.Out
+out[30] <= Datapath:a2.Out
+out[31] <= Datapath:a2.Out
+out[32] <= Datapath:a2.Out
+out[33] <= Datapath:a2.Out
+out[34] <= Datapath:a2.Out
+out[35] <= Datapath:a2.Out
+out[36] <= Datapath:a2.Out
+out[37] <= Datapath:a2.Out
+out[38] <= Datapath:a2.Out
+out[39] <= Datapath:a2.Out
+out[40] <= Datapath:a2.Out
+out[41] <= Datapath:a2.Out
+out[42] <= Datapath:a2.Out
+out[43] <= Datapath:a2.Out
+out[44] <= Datapath:a2.Out
+out[45] <= Datapath:a2.Out
+out[46] <= Datapath:a2.Out
+out[47] <= Datapath:a2.Out
+out[48] <= Datapath:a2.Out
+out[49] <= Datapath:a2.Out
+out[50] <= Datapath:a2.Out
+out[51] <= Datapath:a2.Out
+out[52] <= Datapath:a2.Out
+out[53] <= Datapath:a2.Out
+out[54] <= Datapath:a2.Out
+out[55] <= Datapath:a2.Out
+out[56] <= Datapath:a2.Out
+out[57] <= Datapath:a2.Out
+out[58] <= Datapath:a2.Out
+out[59] <= Datapath:a2.Out
+out[60] <= Datapath:a2.Out
+out[61] <= Datapath:a2.Out
+out[62] <= Datapath:a2.Out
+out[63] <= Datapath:a2.Out
+Done <= Datapath:a2.Done
+
+
+|Moore|control:a1
+Start => Start.IN1
+Feedback => Feedback.IN1
+CLK => CLK.IN1
+IE <= decoder:c2.IE
+
+
+|Moore|control:a1|Convert:c1
+Start => Start.IN1
+Feedback => Feedback.IN1
+CLK => CLK.IN1
+D[0] <= D[0].DB_MAX_OUTPUT_PORT_TYPE
+D[1] <= D[1].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|control:a1|Convert:c1|TTKT:a2
+Start => WideAnd1.IN0
+Feedback => WideAnd0.IN0
+Q[0] => D1_temp.IN0
+Q[0] => D2_temp.IN0
+Q[0] => WideAnd0.IN1
+Q[0] => WideAnd1.IN1
+Q[1] => D2_temp.IN1
+Q[1] => WideAnd0.IN2
+Q[1] => D1_temp.IN1
+Q[1] => WideAnd1.IN2
+D[0] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+D[1] <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|control:a1|Convert:c1|TTHT:a1
+CLK => D[0]~reg0.CLK
+CLK => D[1]~reg0.CLK
+Q[0] => D[0]~reg0.DATAIN
+Q[1] => D[1]~reg0.DATAIN
+D[0] <= D[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+D[1] <= D[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|control:a1|decoder:c2
+Q[0] => b1.IN0
+Q[1] => b1.IN1
+IE <= b1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2
+CLK => CLK.IN2
+In[0] => In[0].IN1
+In[1] => In[1].IN1
+In[2] => In[2].IN1
+In[3] => In[3].IN1
+In[4] => In[4].IN1
+In[5] => In[5].IN1
+In[6] => In[6].IN1
+In[7] => In[7].IN1
+In[8] => In[8].IN1
+In[9] => In[9].IN1
+In[10] => In[10].IN1
+In[11] => In[11].IN1
+In[12] => In[12].IN1
+In[13] => In[13].IN1
+In[14] => In[14].IN1
+In[15] => In[15].IN1
+In[16] => In[16].IN1
+In[17] => In[17].IN1
+In[18] => In[18].IN1
+In[19] => In[19].IN1
+In[20] => In[20].IN1
+In[21] => In[21].IN1
+In[22] => In[22].IN1
+In[23] => In[23].IN1
+In[24] => In[24].IN1
+In[25] => In[25].IN1
+In[26] => In[26].IN1
+In[27] => In[27].IN1
+In[28] => In[28].IN1
+In[29] => In[29].IN1
+In[30] => In[30].IN1
+In[31] => In[31].IN1
+In[32] => In[32].IN1
+In[33] => In[33].IN1
+In[34] => In[34].IN1
+In[35] => In[35].IN1
+In[36] => In[36].IN1
+In[37] => In[37].IN1
+In[38] => In[38].IN1
+In[39] => In[39].IN1
+In[40] => In[40].IN1
+In[41] => In[41].IN1
+In[42] => In[42].IN1
+In[43] => In[43].IN1
+In[44] => In[44].IN1
+In[45] => In[45].IN1
+In[46] => In[46].IN1
+In[47] => In[47].IN1
+In[48] => In[48].IN1
+In[49] => In[49].IN1
+In[50] => In[50].IN1
+In[51] => In[51].IN1
+In[52] => In[52].IN1
+In[53] => In[53].IN1
+In[54] => In[54].IN1
+In[55] => In[55].IN1
+In[56] => In[56].IN1
+In[57] => In[57].IN1
+In[58] => In[58].IN1
+In[59] => In[59].IN1
+In[60] => In[60].IN1
+In[61] => In[61].IN1
+In[62] => In[62].IN1
+In[63] => In[63].IN1
+LoadShift => LoadShift.IN1
+Out[0] <= b[0].DB_MAX_OUTPUT_PORT_TYPE
+Out[1] <= b[1].DB_MAX_OUTPUT_PORT_TYPE
+Out[2] <= b[2].DB_MAX_OUTPUT_PORT_TYPE
+Out[3] <= b[3].DB_MAX_OUTPUT_PORT_TYPE
+Out[4] <= b[4].DB_MAX_OUTPUT_PORT_TYPE
+Out[5] <= b[5].DB_MAX_OUTPUT_PORT_TYPE
+Out[6] <= b[6].DB_MAX_OUTPUT_PORT_TYPE
+Out[7] <= b[7].DB_MAX_OUTPUT_PORT_TYPE
+Out[8] <= b[8].DB_MAX_OUTPUT_PORT_TYPE
+Out[9] <= b[9].DB_MAX_OUTPUT_PORT_TYPE
+Out[10] <= b[10].DB_MAX_OUTPUT_PORT_TYPE
+Out[11] <= b[11].DB_MAX_OUTPUT_PORT_TYPE
+Out[12] <= b[12].DB_MAX_OUTPUT_PORT_TYPE
+Out[13] <= b[13].DB_MAX_OUTPUT_PORT_TYPE
+Out[14] <= b[14].DB_MAX_OUTPUT_PORT_TYPE
+Out[15] <= b[15].DB_MAX_OUTPUT_PORT_TYPE
+Out[16] <= b[16].DB_MAX_OUTPUT_PORT_TYPE
+Out[17] <= b[17].DB_MAX_OUTPUT_PORT_TYPE
+Out[18] <= b[18].DB_MAX_OUTPUT_PORT_TYPE
+Out[19] <= b[19].DB_MAX_OUTPUT_PORT_TYPE
+Out[20] <= b[20].DB_MAX_OUTPUT_PORT_TYPE
+Out[21] <= b[21].DB_MAX_OUTPUT_PORT_TYPE
+Out[22] <= b[22].DB_MAX_OUTPUT_PORT_TYPE
+Out[23] <= b[23].DB_MAX_OUTPUT_PORT_TYPE
+Out[24] <= b[24].DB_MAX_OUTPUT_PORT_TYPE
+Out[25] <= b[25].DB_MAX_OUTPUT_PORT_TYPE
+Out[26] <= b[26].DB_MAX_OUTPUT_PORT_TYPE
+Out[27] <= b[27].DB_MAX_OUTPUT_PORT_TYPE
+Out[28] <= b[28].DB_MAX_OUTPUT_PORT_TYPE
+Out[29] <= b[29].DB_MAX_OUTPUT_PORT_TYPE
+Out[30] <= b[30].DB_MAX_OUTPUT_PORT_TYPE
+Out[31] <= b[31].DB_MAX_OUTPUT_PORT_TYPE
+Out[32] <= b[32].DB_MAX_OUTPUT_PORT_TYPE
+Out[33] <= b[33].DB_MAX_OUTPUT_PORT_TYPE
+Out[34] <= b[34].DB_MAX_OUTPUT_PORT_TYPE
+Out[35] <= b[35].DB_MAX_OUTPUT_PORT_TYPE
+Out[36] <= b[36].DB_MAX_OUTPUT_PORT_TYPE
+Out[37] <= b[37].DB_MAX_OUTPUT_PORT_TYPE
+Out[38] <= b[38].DB_MAX_OUTPUT_PORT_TYPE
+Out[39] <= b[39].DB_MAX_OUTPUT_PORT_TYPE
+Out[40] <= b[40].DB_MAX_OUTPUT_PORT_TYPE
+Out[41] <= b[41].DB_MAX_OUTPUT_PORT_TYPE
+Out[42] <= b[42].DB_MAX_OUTPUT_PORT_TYPE
+Out[43] <= b[43].DB_MAX_OUTPUT_PORT_TYPE
+Out[44] <= b[44].DB_MAX_OUTPUT_PORT_TYPE
+Out[45] <= b[45].DB_MAX_OUTPUT_PORT_TYPE
+Out[46] <= b[46].DB_MAX_OUTPUT_PORT_TYPE
+Out[47] <= b[47].DB_MAX_OUTPUT_PORT_TYPE
+Out[48] <= b[48].DB_MAX_OUTPUT_PORT_TYPE
+Out[49] <= b[49].DB_MAX_OUTPUT_PORT_TYPE
+Out[50] <= b[50].DB_MAX_OUTPUT_PORT_TYPE
+Out[51] <= b[51].DB_MAX_OUTPUT_PORT_TYPE
+Out[52] <= b[52].DB_MAX_OUTPUT_PORT_TYPE
+Out[53] <= b[53].DB_MAX_OUTPUT_PORT_TYPE
+Out[54] <= b[54].DB_MAX_OUTPUT_PORT_TYPE
+Out[55] <= b[55].DB_MAX_OUTPUT_PORT_TYPE
+Out[56] <= b[56].DB_MAX_OUTPUT_PORT_TYPE
+Out[57] <= b[57].DB_MAX_OUTPUT_PORT_TYPE
+Out[58] <= b[58].DB_MAX_OUTPUT_PORT_TYPE
+Out[59] <= b[59].DB_MAX_OUTPUT_PORT_TYPE
+Out[60] <= b[60].DB_MAX_OUTPUT_PORT_TYPE
+Out[61] <= b[61].DB_MAX_OUTPUT_PORT_TYPE
+Out[62] <= b[62].DB_MAX_OUTPUT_PORT_TYPE
+Out[63] <= b[63].DB_MAX_OUTPUT_PORT_TYPE
+feedback <= empty_n:n1.empty
+Done <= empty_n:n1.empty
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS
+CLK => D_FlipFlop:DFF[0].CLK
+CLK => D_FlipFlop:DFF[1].CLK
+CLK => D_FlipFlop:DFF[2].CLK
+CLK => D_FlipFlop:DFF[3].CLK
+CLK => D_FlipFlop:DFF[4].CLK
+CLK => D_FlipFlop:DFF[5].CLK
+CLK => D_FlipFlop:DFF[6].CLK
+CLK => D_FlipFlop:DFF[7].CLK
+CLK => D_FlipFlop:DFF[8].CLK
+CLK => D_FlipFlop:DFF[9].CLK
+CLK => D_FlipFlop:DFF[10].CLK
+CLK => D_FlipFlop:DFF[11].CLK
+CLK => D_FlipFlop:DFF[12].CLK
+CLK => D_FlipFlop:DFF[13].CLK
+CLK => D_FlipFlop:DFF[14].CLK
+CLK => D_FlipFlop:DFF[15].CLK
+CLK => D_FlipFlop:DFF[16].CLK
+CLK => D_FlipFlop:DFF[17].CLK
+CLK => D_FlipFlop:DFF[18].CLK
+CLK => D_FlipFlop:DFF[19].CLK
+CLK => D_FlipFlop:DFF[20].CLK
+CLK => D_FlipFlop:DFF[21].CLK
+CLK => D_FlipFlop:DFF[22].CLK
+CLK => D_FlipFlop:DFF[23].CLK
+CLK => D_FlipFlop:DFF[24].CLK
+CLK => D_FlipFlop:DFF[25].CLK
+CLK => D_FlipFlop:DFF[26].CLK
+CLK => D_FlipFlop:DFF[27].CLK
+CLK => D_FlipFlop:DFF[28].CLK
+CLK => D_FlipFlop:DFF[29].CLK
+CLK => D_FlipFlop:DFF[30].CLK
+CLK => D_FlipFlop:DFF[31].CLK
+CLK => D_FlipFlop:DFF[32].CLK
+CLK => D_FlipFlop:DFF[33].CLK
+CLK => D_FlipFlop:DFF[34].CLK
+CLK => D_FlipFlop:DFF[35].CLK
+CLK => D_FlipFlop:DFF[36].CLK
+CLK => D_FlipFlop:DFF[37].CLK
+CLK => D_FlipFlop:DFF[38].CLK
+CLK => D_FlipFlop:DFF[39].CLK
+CLK => D_FlipFlop:DFF[40].CLK
+CLK => D_FlipFlop:DFF[41].CLK
+CLK => D_FlipFlop:DFF[42].CLK
+CLK => D_FlipFlop:DFF[43].CLK
+CLK => D_FlipFlop:DFF[44].CLK
+CLK => D_FlipFlop:DFF[45].CLK
+CLK => D_FlipFlop:DFF[46].CLK
+CLK => D_FlipFlop:DFF[47].CLK
+CLK => D_FlipFlop:DFF[48].CLK
+CLK => D_FlipFlop:DFF[49].CLK
+CLK => D_FlipFlop:DFF[50].CLK
+CLK => D_FlipFlop:DFF[51].CLK
+CLK => D_FlipFlop:DFF[52].CLK
+CLK => D_FlipFlop:DFF[53].CLK
+CLK => D_FlipFlop:DFF[54].CLK
+CLK => D_FlipFlop:DFF[55].CLK
+CLK => D_FlipFlop:DFF[56].CLK
+CLK => D_FlipFlop:DFF[57].CLK
+CLK => D_FlipFlop:DFF[58].CLK
+CLK => D_FlipFlop:DFF[59].CLK
+CLK => D_FlipFlop:DFF[60].CLK
+CLK => D_FlipFlop:DFF[61].CLK
+CLK => D_FlipFlop:DFF[62].CLK
+CLK => D_FlipFlop:DFF[63].CLK
+Shift => S[1].IN2
+Value[0] => Value[0].IN1
+Value[1] => Mux_4to1:M[1].In2
+Value[2] => Mux_4to1:M[2].In2
+Value[3] => Mux_4to1:M[3].In2
+Value[4] => Mux_4to1:M[4].In2
+Value[5] => Mux_4to1:M[5].In2
+Value[6] => Mux_4to1:M[6].In2
+Value[7] => Mux_4to1:M[7].In2
+Value[8] => Mux_4to1:M[8].In2
+Value[9] => Mux_4to1:M[9].In2
+Value[10] => Mux_4to1:M[10].In2
+Value[11] => Mux_4to1:M[11].In2
+Value[12] => Mux_4to1:M[12].In2
+Value[13] => Mux_4to1:M[13].In2
+Value[14] => Mux_4to1:M[14].In2
+Value[15] => Mux_4to1:M[15].In2
+Value[16] => Mux_4to1:M[16].In2
+Value[17] => Mux_4to1:M[17].In2
+Value[18] => Mux_4to1:M[18].In2
+Value[19] => Mux_4to1:M[19].In2
+Value[20] => Mux_4to1:M[20].In2
+Value[21] => Mux_4to1:M[21].In2
+Value[22] => Mux_4to1:M[22].In2
+Value[23] => Mux_4to1:M[23].In2
+Value[24] => Mux_4to1:M[24].In2
+Value[25] => Mux_4to1:M[25].In2
+Value[26] => Mux_4to1:M[26].In2
+Value[27] => Mux_4to1:M[27].In2
+Value[28] => Mux_4to1:M[28].In2
+Value[29] => Mux_4to1:M[29].In2
+Value[30] => Mux_4to1:M[30].In2
+Value[31] => Mux_4to1:M[31].In2
+Value[32] => Mux_4to1:M[32].In2
+Value[33] => Mux_4to1:M[33].In2
+Value[34] => Mux_4to1:M[34].In2
+Value[35] => Mux_4to1:M[35].In2
+Value[36] => Mux_4to1:M[36].In2
+Value[37] => Mux_4to1:M[37].In2
+Value[38] => Mux_4to1:M[38].In2
+Value[39] => Mux_4to1:M[39].In2
+Value[40] => Mux_4to1:M[40].In2
+Value[41] => Mux_4to1:M[41].In2
+Value[42] => Mux_4to1:M[42].In2
+Value[43] => Mux_4to1:M[43].In2
+Value[44] => Mux_4to1:M[44].In2
+Value[45] => Mux_4to1:M[45].In2
+Value[46] => Mux_4to1:M[46].In2
+Value[47] => Mux_4to1:M[47].In2
+Value[48] => Mux_4to1:M[48].In2
+Value[49] => Mux_4to1:M[49].In2
+Value[50] => Mux_4to1:M[50].In2
+Value[51] => Mux_4to1:M[51].In2
+Value[52] => Mux_4to1:M[52].In2
+Value[53] => Mux_4to1:M[53].In2
+Value[54] => Mux_4to1:M[54].In2
+Value[55] => Mux_4to1:M[55].In2
+Value[56] => Mux_4to1:M[56].In2
+Value[57] => Mux_4to1:M[57].In2
+Value[58] => Mux_4to1:M[58].In2
+Value[59] => Mux_4to1:M[59].In2
+Value[60] => Mux_4to1:M[60].In2
+Value[61] => Mux_4to1:M[61].In2
+Value[62] => Mux_4to1:M[62].In2
+Value[63] => Value[63].IN1
+Out[0] <= Out[0].DB_MAX_OUTPUT_PORT_TYPE
+Out[1] <= Out[1].DB_MAX_OUTPUT_PORT_TYPE
+Out[2] <= D_FlipFlop:DFF[2].Q
+Out[3] <= D_FlipFlop:DFF[3].Q
+Out[4] <= D_FlipFlop:DFF[4].Q
+Out[5] <= D_FlipFlop:DFF[5].Q
+Out[6] <= D_FlipFlop:DFF[6].Q
+Out[7] <= D_FlipFlop:DFF[7].Q
+Out[8] <= D_FlipFlop:DFF[8].Q
+Out[9] <= D_FlipFlop:DFF[9].Q
+Out[10] <= D_FlipFlop:DFF[10].Q
+Out[11] <= D_FlipFlop:DFF[11].Q
+Out[12] <= D_FlipFlop:DFF[12].Q
+Out[13] <= D_FlipFlop:DFF[13].Q
+Out[14] <= D_FlipFlop:DFF[14].Q
+Out[15] <= D_FlipFlop:DFF[15].Q
+Out[16] <= D_FlipFlop:DFF[16].Q
+Out[17] <= D_FlipFlop:DFF[17].Q
+Out[18] <= D_FlipFlop:DFF[18].Q
+Out[19] <= D_FlipFlop:DFF[19].Q
+Out[20] <= D_FlipFlop:DFF[20].Q
+Out[21] <= D_FlipFlop:DFF[21].Q
+Out[22] <= D_FlipFlop:DFF[22].Q
+Out[23] <= D_FlipFlop:DFF[23].Q
+Out[24] <= D_FlipFlop:DFF[24].Q
+Out[25] <= D_FlipFlop:DFF[25].Q
+Out[26] <= D_FlipFlop:DFF[26].Q
+Out[27] <= D_FlipFlop:DFF[27].Q
+Out[28] <= D_FlipFlop:DFF[28].Q
+Out[29] <= D_FlipFlop:DFF[29].Q
+Out[30] <= D_FlipFlop:DFF[30].Q
+Out[31] <= D_FlipFlop:DFF[31].Q
+Out[32] <= D_FlipFlop:DFF[32].Q
+Out[33] <= D_FlipFlop:DFF[33].Q
+Out[34] <= D_FlipFlop:DFF[34].Q
+Out[35] <= D_FlipFlop:DFF[35].Q
+Out[36] <= D_FlipFlop:DFF[36].Q
+Out[37] <= D_FlipFlop:DFF[37].Q
+Out[38] <= D_FlipFlop:DFF[38].Q
+Out[39] <= D_FlipFlop:DFF[39].Q
+Out[40] <= D_FlipFlop:DFF[40].Q
+Out[41] <= D_FlipFlop:DFF[41].Q
+Out[42] <= D_FlipFlop:DFF[42].Q
+Out[43] <= D_FlipFlop:DFF[43].Q
+Out[44] <= D_FlipFlop:DFF[44].Q
+Out[45] <= D_FlipFlop:DFF[45].Q
+Out[46] <= D_FlipFlop:DFF[46].Q
+Out[47] <= D_FlipFlop:DFF[47].Q
+Out[48] <= D_FlipFlop:DFF[48].Q
+Out[49] <= D_FlipFlop:DFF[49].Q
+Out[50] <= D_FlipFlop:DFF[50].Q
+Out[51] <= D_FlipFlop:DFF[51].Q
+Out[52] <= D_FlipFlop:DFF[52].Q
+Out[53] <= D_FlipFlop:DFF[53].Q
+Out[54] <= D_FlipFlop:DFF[54].Q
+Out[55] <= D_FlipFlop:DFF[55].Q
+Out[56] <= D_FlipFlop:DFF[56].Q
+Out[57] <= D_FlipFlop:DFF[57].Q
+Out[58] <= D_FlipFlop:DFF[58].Q
+Out[59] <= D_FlipFlop:DFF[59].Q
+Out[60] <= D_FlipFlop:DFF[60].Q
+Out[61] <= D_FlipFlop:DFF[61].Q
+Out[62] <= Out[62].DB_MAX_OUTPUT_PORT_TYPE
+Out[63] <= Out[63].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M0
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M0|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M0|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M0|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[1]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[1]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[1]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[1]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[2]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[2]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[2]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[2]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[3]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[3]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[3]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[3]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[4]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[4]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[4]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[4]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[5]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[5]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[5]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[5]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[6]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[6]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[6]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[6]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[7]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[7]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[7]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[7]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[8]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[8]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[8]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[8]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[9]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[9]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[9]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[9]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[10]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[10]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[10]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[10]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[11]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[11]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[11]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[11]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[12]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[12]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[12]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[12]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[13]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[13]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[13]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[13]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[14]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[14]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[14]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[14]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[15]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[15]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[15]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[15]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[16]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[16]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[16]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[16]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[17]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[17]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[17]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[17]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[18]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[18]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[18]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[18]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[19]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[19]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[19]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[19]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[20]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[20]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[20]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[20]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[21]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[21]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[21]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[21]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[22]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[22]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[22]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[22]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[23]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[23]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[23]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[23]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[24]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[24]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[24]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[24]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[25]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[25]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[25]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[25]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[26]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[26]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[26]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[26]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[27]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[27]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[27]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[27]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[28]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[28]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[28]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[28]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[29]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[29]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[29]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[29]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[30]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[30]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[30]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[30]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[31]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[31]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[31]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[31]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[32]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[32]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[32]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[32]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[33]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[33]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[33]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[33]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[34]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[34]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[34]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[34]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[35]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[35]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[35]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[35]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[36]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[36]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[36]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[36]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[37]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[37]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[37]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[37]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[38]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[38]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[38]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[38]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[39]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[39]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[39]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[39]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[40]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[40]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[40]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[40]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[41]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[41]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[41]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[41]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[42]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[42]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[42]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[42]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[43]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[43]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[43]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[43]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[44]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[44]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[44]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[44]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[45]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[45]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[45]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[45]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[46]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[46]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[46]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[46]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[47]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[47]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[47]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[47]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[48]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[48]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[48]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[48]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[49]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[49]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[49]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[49]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[50]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[50]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[50]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[50]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[51]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[51]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[51]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[51]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[52]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[52]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[52]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[52]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[53]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[53]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[53]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[53]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[54]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[54]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[54]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[54]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[55]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[55]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[55]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[55]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[56]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[56]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[56]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[56]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[57]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[57]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[57]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[57]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[58]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[58]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[58]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[58]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[59]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[59]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[59]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[59]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[60]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[60]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[60]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[60]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[61]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[61]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[61]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[61]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[62]
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[62]|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[62]|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M[62]|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M_MSB
+S[0] => S[0].IN2
+S[1] => S[1].IN1
+In1 => In1.IN1
+In2 => In2.IN1
+In3 => In3.IN1
+In4 => In4.IN1
+Out <= Mux_2to1:mux2_2.port3
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M_MSB|Mux_2to1:mux2_0
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M_MSB|Mux_2to1:mux2_1
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|Mux_4to1:M_MSB|Mux_2to1:mux2_2
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[0]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[1]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[2]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[3]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[4]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[5]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[6]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[7]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[8]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[9]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[10]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[11]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[12]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[13]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[14]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[15]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[16]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[17]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[18]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[19]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[20]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[21]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[22]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[23]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[24]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[25]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[26]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[27]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[28]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[29]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[30]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[31]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[32]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[33]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[34]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[35]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[36]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[37]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[38]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[39]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[40]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[41]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[42]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[43]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[44]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[45]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[46]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[47]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[48]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[49]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[50]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[51]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[52]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[53]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[54]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[55]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[56]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[57]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[58]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[59]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[60]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[61]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[62]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|REG_LoadandShift:REG_LaS|D_FlipFlop:DFF[63]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD
+CLK => D_FlipFlop:D[0].CLK
+CLK => D_FlipFlop:D[1].CLK
+CLK => D_FlipFlop:D[2].CLK
+CLK => D_FlipFlop:D[3].CLK
+CLK => D_FlipFlop:D[4].CLK
+CLK => D_FlipFlop:D[5].CLK
+CLK => D_FlipFlop:D[6].CLK
+CLK => D_FlipFlop:D[7].CLK
+CLK => D_FlipFlop:D[8].CLK
+CLK => D_FlipFlop:D[9].CLK
+CLK => D_FlipFlop:D[10].CLK
+CLK => D_FlipFlop:D[11].CLK
+CLK => D_FlipFlop:D[12].CLK
+CLK => D_FlipFlop:D[13].CLK
+CLK => D_FlipFlop:D[14].CLK
+CLK => D_FlipFlop:D[15].CLK
+CLK => D_FlipFlop:D[16].CLK
+CLK => D_FlipFlop:D[17].CLK
+CLK => D_FlipFlop:D[18].CLK
+CLK => D_FlipFlop:D[19].CLK
+CLK => D_FlipFlop:D[20].CLK
+CLK => D_FlipFlop:D[21].CLK
+CLK => D_FlipFlop:D[22].CLK
+CLK => D_FlipFlop:D[23].CLK
+CLK => D_FlipFlop:D[24].CLK
+CLK => D_FlipFlop:D[25].CLK
+CLK => D_FlipFlop:D[26].CLK
+CLK => D_FlipFlop:D[27].CLK
+CLK => D_FlipFlop:D[28].CLK
+CLK => D_FlipFlop:D[29].CLK
+CLK => D_FlipFlop:D[30].CLK
+CLK => D_FlipFlop:D[31].CLK
+CLK => D_FlipFlop:D[32].CLK
+CLK => D_FlipFlop:D[33].CLK
+CLK => D_FlipFlop:D[34].CLK
+CLK => D_FlipFlop:D[35].CLK
+CLK => D_FlipFlop:D[36].CLK
+CLK => D_FlipFlop:D[37].CLK
+CLK => D_FlipFlop:D[38].CLK
+CLK => D_FlipFlop:D[39].CLK
+CLK => D_FlipFlop:D[40].CLK
+CLK => D_FlipFlop:D[41].CLK
+CLK => D_FlipFlop:D[42].CLK
+CLK => D_FlipFlop:D[43].CLK
+CLK => D_FlipFlop:D[44].CLK
+CLK => D_FlipFlop:D[45].CLK
+CLK => D_FlipFlop:D[46].CLK
+CLK => D_FlipFlop:D[47].CLK
+CLK => D_FlipFlop:D[48].CLK
+CLK => D_FlipFlop:D[49].CLK
+CLK => D_FlipFlop:D[50].CLK
+CLK => D_FlipFlop:D[51].CLK
+CLK => D_FlipFlop:D[52].CLK
+CLK => D_FlipFlop:D[53].CLK
+CLK => D_FlipFlop:D[54].CLK
+CLK => D_FlipFlop:D[55].CLK
+CLK => D_FlipFlop:D[56].CLK
+CLK => D_FlipFlop:D[57].CLK
+CLK => D_FlipFlop:D[58].CLK
+CLK => D_FlipFlop:D[59].CLK
+CLK => D_FlipFlop:D[60].CLK
+CLK => D_FlipFlop:D[61].CLK
+CLK => D_FlipFlop:D[62].CLK
+CLK => D_FlipFlop:D[63].CLK
+En => En.IN1
+Load => Mux_2to1:M[0].S_Mux2
+Load => Mux_2to1:M[1].S_Mux2
+Load => Mux_2to1:M[2].S_Mux2
+Load => Mux_2to1:M[3].S_Mux2
+Load => Mux_2to1:M[4].S_Mux2
+Load => Mux_2to1:M[5].S_Mux2
+Load => Mux_2to1:M[6].S_Mux2
+Load => Mux_2to1:M[7].S_Mux2
+Load => Mux_2to1:M[8].S_Mux2
+Load => Mux_2to1:M[9].S_Mux2
+Load => Mux_2to1:M[10].S_Mux2
+Load => Mux_2to1:M[11].S_Mux2
+Load => Mux_2to1:M[12].S_Mux2
+Load => Mux_2to1:M[13].S_Mux2
+Load => Mux_2to1:M[14].S_Mux2
+Load => Mux_2to1:M[15].S_Mux2
+Load => Mux_2to1:M[16].S_Mux2
+Load => Mux_2to1:M[17].S_Mux2
+Load => Mux_2to1:M[18].S_Mux2
+Load => Mux_2to1:M[19].S_Mux2
+Load => Mux_2to1:M[20].S_Mux2
+Load => Mux_2to1:M[21].S_Mux2
+Load => Mux_2to1:M[22].S_Mux2
+Load => Mux_2to1:M[23].S_Mux2
+Load => Mux_2to1:M[24].S_Mux2
+Load => Mux_2to1:M[25].S_Mux2
+Load => Mux_2to1:M[26].S_Mux2
+Load => Mux_2to1:M[27].S_Mux2
+Load => Mux_2to1:M[28].S_Mux2
+Load => Mux_2to1:M[29].S_Mux2
+Load => Mux_2to1:M[30].S_Mux2
+Load => Mux_2to1:M[31].S_Mux2
+Load => Mux_2to1:M[32].S_Mux2
+Load => Mux_2to1:M[33].S_Mux2
+Load => Mux_2to1:M[34].S_Mux2
+Load => Mux_2to1:M[35].S_Mux2
+Load => Mux_2to1:M[36].S_Mux2
+Load => Mux_2to1:M[37].S_Mux2
+Load => Mux_2to1:M[38].S_Mux2
+Load => Mux_2to1:M[39].S_Mux2
+Load => Mux_2to1:M[40].S_Mux2
+Load => Mux_2to1:M[41].S_Mux2
+Load => Mux_2to1:M[42].S_Mux2
+Load => Mux_2to1:M[43].S_Mux2
+Load => Mux_2to1:M[44].S_Mux2
+Load => Mux_2to1:M[45].S_Mux2
+Load => Mux_2to1:M[46].S_Mux2
+Load => Mux_2to1:M[47].S_Mux2
+Load => Mux_2to1:M[48].S_Mux2
+Load => Mux_2to1:M[49].S_Mux2
+Load => Mux_2to1:M[50].S_Mux2
+Load => Mux_2to1:M[51].S_Mux2
+Load => Mux_2to1:M[52].S_Mux2
+Load => Mux_2to1:M[53].S_Mux2
+Load => Mux_2to1:M[54].S_Mux2
+Load => Mux_2to1:M[55].S_Mux2
+Load => Mux_2to1:M[56].S_Mux2
+Load => Mux_2to1:M[57].S_Mux2
+Load => Mux_2to1:M[58].S_Mux2
+Load => Mux_2to1:M[59].S_Mux2
+Load => Mux_2to1:M[60].S_Mux2
+Load => Mux_2to1:M[61].S_Mux2
+Load => Mux_2to1:M[62].S_Mux2
+Load => Mux_2to1:M[63].S_Mux2
+In[0] => Mux_2to1:M[0].In2
+In[1] => Mux_2to1:M[1].In2
+In[2] => Mux_2to1:M[2].In2
+In[3] => Mux_2to1:M[3].In2
+In[4] => Mux_2to1:M[4].In2
+In[5] => Mux_2to1:M[5].In2
+In[6] => Mux_2to1:M[6].In2
+In[7] => Mux_2to1:M[7].In2
+In[8] => Mux_2to1:M[8].In2
+In[9] => Mux_2to1:M[9].In2
+In[10] => Mux_2to1:M[10].In2
+In[11] => Mux_2to1:M[11].In2
+In[12] => Mux_2to1:M[12].In2
+In[13] => Mux_2to1:M[13].In2
+In[14] => Mux_2to1:M[14].In2
+In[15] => Mux_2to1:M[15].In2
+In[16] => Mux_2to1:M[16].In2
+In[17] => Mux_2to1:M[17].In2
+In[18] => Mux_2to1:M[18].In2
+In[19] => Mux_2to1:M[19].In2
+In[20] => Mux_2to1:M[20].In2
+In[21] => Mux_2to1:M[21].In2
+In[22] => Mux_2to1:M[22].In2
+In[23] => Mux_2to1:M[23].In2
+In[24] => Mux_2to1:M[24].In2
+In[25] => Mux_2to1:M[25].In2
+In[26] => Mux_2to1:M[26].In2
+In[27] => Mux_2to1:M[27].In2
+In[28] => Mux_2to1:M[28].In2
+In[29] => Mux_2to1:M[29].In2
+In[30] => Mux_2to1:M[30].In2
+In[31] => Mux_2to1:M[31].In2
+In[32] => Mux_2to1:M[32].In2
+In[33] => Mux_2to1:M[33].In2
+In[34] => Mux_2to1:M[34].In2
+In[35] => Mux_2to1:M[35].In2
+In[36] => Mux_2to1:M[36].In2
+In[37] => Mux_2to1:M[37].In2
+In[38] => Mux_2to1:M[38].In2
+In[39] => Mux_2to1:M[39].In2
+In[40] => Mux_2to1:M[40].In2
+In[41] => Mux_2to1:M[41].In2
+In[42] => Mux_2to1:M[42].In2
+In[43] => Mux_2to1:M[43].In2
+In[44] => Mux_2to1:M[44].In2
+In[45] => Mux_2to1:M[45].In2
+In[46] => Mux_2to1:M[46].In2
+In[47] => Mux_2to1:M[47].In2
+In[48] => Mux_2to1:M[48].In2
+In[49] => Mux_2to1:M[49].In2
+In[50] => Mux_2to1:M[50].In2
+In[51] => Mux_2to1:M[51].In2
+In[52] => Mux_2to1:M[52].In2
+In[53] => Mux_2to1:M[53].In2
+In[54] => Mux_2to1:M[54].In2
+In[55] => Mux_2to1:M[55].In2
+In[56] => Mux_2to1:M[56].In2
+In[57] => Mux_2to1:M[57].In2
+In[58] => Mux_2to1:M[58].In2
+In[59] => Mux_2to1:M[59].In2
+In[60] => Mux_2to1:M[60].In2
+In[61] => Mux_2to1:M[61].In2
+In[62] => Mux_2to1:M[62].In2
+In[63] => Mux_2to1:M[63].In2
+Out[0] <= Out[0].DB_MAX_OUTPUT_PORT_TYPE
+Out[1] <= D_FlipFlop:D[1].Q
+Out[2] <= D_FlipFlop:D[2].Q
+Out[3] <= D_FlipFlop:D[3].Q
+Out[4] <= D_FlipFlop:D[4].Q
+Out[5] <= D_FlipFlop:D[5].Q
+Out[6] <= D_FlipFlop:D[6].Q
+Out[7] <= D_FlipFlop:D[7].Q
+Out[8] <= D_FlipFlop:D[8].Q
+Out[9] <= D_FlipFlop:D[9].Q
+Out[10] <= D_FlipFlop:D[10].Q
+Out[11] <= D_FlipFlop:D[11].Q
+Out[12] <= D_FlipFlop:D[12].Q
+Out[13] <= D_FlipFlop:D[13].Q
+Out[14] <= D_FlipFlop:D[14].Q
+Out[15] <= D_FlipFlop:D[15].Q
+Out[16] <= D_FlipFlop:D[16].Q
+Out[17] <= D_FlipFlop:D[17].Q
+Out[18] <= D_FlipFlop:D[18].Q
+Out[19] <= D_FlipFlop:D[19].Q
+Out[20] <= D_FlipFlop:D[20].Q
+Out[21] <= D_FlipFlop:D[21].Q
+Out[22] <= D_FlipFlop:D[22].Q
+Out[23] <= D_FlipFlop:D[23].Q
+Out[24] <= D_FlipFlop:D[24].Q
+Out[25] <= D_FlipFlop:D[25].Q
+Out[26] <= D_FlipFlop:D[26].Q
+Out[27] <= D_FlipFlop:D[27].Q
+Out[28] <= D_FlipFlop:D[28].Q
+Out[29] <= D_FlipFlop:D[29].Q
+Out[30] <= D_FlipFlop:D[30].Q
+Out[31] <= D_FlipFlop:D[31].Q
+Out[32] <= D_FlipFlop:D[32].Q
+Out[33] <= D_FlipFlop:D[33].Q
+Out[34] <= D_FlipFlop:D[34].Q
+Out[35] <= D_FlipFlop:D[35].Q
+Out[36] <= D_FlipFlop:D[36].Q
+Out[37] <= D_FlipFlop:D[37].Q
+Out[38] <= D_FlipFlop:D[38].Q
+Out[39] <= D_FlipFlop:D[39].Q
+Out[40] <= D_FlipFlop:D[40].Q
+Out[41] <= D_FlipFlop:D[41].Q
+Out[42] <= D_FlipFlop:D[42].Q
+Out[43] <= D_FlipFlop:D[43].Q
+Out[44] <= D_FlipFlop:D[44].Q
+Out[45] <= D_FlipFlop:D[45].Q
+Out[46] <= D_FlipFlop:D[46].Q
+Out[47] <= D_FlipFlop:D[47].Q
+Out[48] <= D_FlipFlop:D[48].Q
+Out[49] <= D_FlipFlop:D[49].Q
+Out[50] <= D_FlipFlop:D[50].Q
+Out[51] <= D_FlipFlop:D[51].Q
+Out[52] <= D_FlipFlop:D[52].Q
+Out[53] <= D_FlipFlop:D[53].Q
+Out[54] <= D_FlipFlop:D[54].Q
+Out[55] <= D_FlipFlop:D[55].Q
+Out[56] <= D_FlipFlop:D[56].Q
+Out[57] <= D_FlipFlop:D[57].Q
+Out[58] <= D_FlipFlop:D[58].Q
+Out[59] <= D_FlipFlop:D[59].Q
+Out[60] <= D_FlipFlop:D[60].Q
+Out[61] <= D_FlipFlop:D[61].Q
+Out[62] <= D_FlipFlop:D[62].Q
+Out[63] <= Out[63].DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H0
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[1]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[2]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[3]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[4]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[5]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[6]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[7]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[8]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[9]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[10]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[11]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[12]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[13]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[14]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[15]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[16]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[17]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[18]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[19]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[20]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[21]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[22]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[23]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[24]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[25]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[26]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[27]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[28]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[29]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[30]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[31]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[32]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[33]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[34]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[35]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[36]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[37]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[38]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[39]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[40]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[41]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[42]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[43]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[44]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[45]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[46]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[47]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[48]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[49]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[50]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[51]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[52]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[53]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[54]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[55]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[56]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[57]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[58]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[59]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[60]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[61]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H[62]
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|HAS:H_MSB
+I => x2.IN0
+Q => x1.IN0
+Q => x2.IN1
+C => x1.IN1
+C => a1.IN1
+D <= x1.DB_MAX_OUTPUT_PORT_TYPE
+Cnext <= a1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[0]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[1]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[2]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[3]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[4]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[5]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[6]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[7]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[8]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[9]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[10]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[11]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[12]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[13]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[14]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[15]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[16]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[17]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[18]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[19]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[20]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[21]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[22]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[23]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[24]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[25]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[26]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[27]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[28]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[29]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[30]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[31]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[32]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[33]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[34]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[35]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[36]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[37]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[38]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[39]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[40]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[41]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[42]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[43]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[44]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[45]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[46]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[47]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[48]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[49]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[50]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[51]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[52]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[53]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[54]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[55]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[56]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[57]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[58]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[59]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[60]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[61]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[62]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|Mux_2to1:M[63]
+S_Mux2 => a2.IN0
+S_Mux2 => a1.IN0
+In1 => a1.IN1
+In2 => a2.IN1
+Out_Mux2 <= o1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[0]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[1]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[2]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[3]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[4]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[5]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[6]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[7]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[8]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[9]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[10]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[11]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[12]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[13]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[14]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[15]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[16]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[17]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[18]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[19]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[20]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[21]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[22]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[23]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[24]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[25]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[26]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[27]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[28]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[29]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[30]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[31]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[32]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[33]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[34]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[35]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[36]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[37]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[38]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[39]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[40]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[41]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[42]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[43]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[44]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[45]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[46]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[47]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[48]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[49]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[50]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[51]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[52]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[53]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[54]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[55]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[56]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[57]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[58]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[59]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[60]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[61]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[62]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|UpDownCounter:REG_UD|D_FlipFlop:D[63]
+CLK => Q~reg0.CLK
+D => Q~reg0.DATAIN
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Moore|Datapath:a2|empty_n:n1
+input_data[0] => generate_block_identifier[1].b1.IN0
+input_data[1] => generate_block_identifier[1].b1.IN1
+input_data[2] => generate_block_identifier[2].b1.IN1
+input_data[3] => generate_block_identifier[3].b1.IN1
+input_data[4] => generate_block_identifier[4].b1.IN1
+input_data[5] => generate_block_identifier[5].b1.IN1
+input_data[6] => generate_block_identifier[6].b1.IN1
+input_data[7] => generate_block_identifier[7].b1.IN1
+input_data[8] => generate_block_identifier[8].b1.IN1
+input_data[9] => generate_block_identifier[9].b1.IN1
+input_data[10] => generate_block_identifier[10].b1.IN1
+input_data[11] => generate_block_identifier[11].b1.IN1
+input_data[12] => generate_block_identifier[12].b1.IN1
+input_data[13] => generate_block_identifier[13].b1.IN1
+input_data[14] => generate_block_identifier[14].b1.IN1
+input_data[15] => generate_block_identifier[15].b1.IN1
+input_data[16] => generate_block_identifier[16].b1.IN1
+input_data[17] => generate_block_identifier[17].b1.IN1
+input_data[18] => generate_block_identifier[18].b1.IN1
+input_data[19] => generate_block_identifier[19].b1.IN1
+input_data[20] => generate_block_identifier[20].b1.IN1
+input_data[21] => generate_block_identifier[21].b1.IN1
+input_data[22] => generate_block_identifier[22].b1.IN1
+input_data[23] => generate_block_identifier[23].b1.IN1
+input_data[24] => generate_block_identifier[24].b1.IN1
+input_data[25] => generate_block_identifier[25].b1.IN1
+input_data[26] => generate_block_identifier[26].b1.IN1
+input_data[27] => generate_block_identifier[27].b1.IN1
+input_data[28] => generate_block_identifier[28].b1.IN1
+input_data[29] => generate_block_identifier[29].b1.IN1
+input_data[30] => generate_block_identifier[30].b1.IN1
+input_data[31] => generate_block_identifier[31].b1.IN1
+input_data[32] => generate_block_identifier[32].b1.IN1
+input_data[33] => generate_block_identifier[33].b1.IN1
+input_data[34] => generate_block_identifier[34].b1.IN1
+input_data[35] => generate_block_identifier[35].b1.IN1
+input_data[36] => generate_block_identifier[36].b1.IN1
+input_data[37] => generate_block_identifier[37].b1.IN1
+input_data[38] => generate_block_identifier[38].b1.IN1
+input_data[39] => generate_block_identifier[39].b1.IN1
+input_data[40] => generate_block_identifier[40].b1.IN1
+input_data[41] => generate_block_identifier[41].b1.IN1
+input_data[42] => generate_block_identifier[42].b1.IN1
+input_data[43] => generate_block_identifier[43].b1.IN1
+input_data[44] => generate_block_identifier[44].b1.IN1
+input_data[45] => generate_block_identifier[45].b1.IN1
+input_data[46] => generate_block_identifier[46].b1.IN1
+input_data[47] => generate_block_identifier[47].b1.IN1
+input_data[48] => generate_block_identifier[48].b1.IN1
+input_data[49] => generate_block_identifier[49].b1.IN1
+input_data[50] => generate_block_identifier[50].b1.IN1
+input_data[51] => generate_block_identifier[51].b1.IN1
+input_data[52] => generate_block_identifier[52].b1.IN1
+input_data[53] => generate_block_identifier[53].b1.IN1
+input_data[54] => generate_block_identifier[54].b1.IN1
+input_data[55] => generate_block_identifier[55].b1.IN1
+input_data[56] => generate_block_identifier[56].b1.IN1
+input_data[57] => generate_block_identifier[57].b1.IN1
+input_data[58] => generate_block_identifier[58].b1.IN1
+input_data[59] => generate_block_identifier[59].b1.IN1
+input_data[60] => generate_block_identifier[60].b1.IN1
+input_data[61] => generate_block_identifier[61].b1.IN1
+input_data[62] => generate_block_identifier[62].b1.IN1
+input_data[63] => generate_block_identifier[63].b1.IN1
+empty <= generate_block_identifier[63].b1.DB_MAX_OUTPUT_PORT_TYPE
+
+

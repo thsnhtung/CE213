@@ -1,0 +1,152 @@
+C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ones_counter_mealy
+
+Top level modules:
+	ones_counter_mealy
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy_tb.v {2 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mealy_tb
+** Warning: C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy_tb.v(33): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	mealy_tb
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/Counter.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/Counter.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/DFF.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/DFF.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DFF_
+
+Top level modules:
+	DFF_
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/ControlUnit.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/ControlUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/HAS.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/HAS.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HAS
+
+Top level modules:
+	HAS
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/CU_tb.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/CU_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CU_tb
+
+Top level modules:
+	CU_tb
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/registerfile.v {2 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/registerfile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registerfile
+** Warning: C:/altera/13.0sp1/ce213/lt/week5/registerfile.v(21): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	registerfile
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/register.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/counter_1bit.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/counter_1bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter_1bit
+
+Top level modules:
+	counter_1bit
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/D_flipflop.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/D_flipflop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_flipflop
+
+Top level modules:
+	D_flipflop
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/D_latch.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/D_latch.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_latch
+
+Top level modules:
+	D_latch
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/shiftReg_tb.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/shiftReg_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shiftReg_tb
+
+Top level modules:
+	shiftReg_tb
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/D_latch2.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/D_latch2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_latch2
+
+Top level modules:
+	D_latch2
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/register_tb.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/register_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_tb
+
+Top level modules:
+	register_tb
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/registerfile_tb.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/registerfile_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registerfile_tb
+
+Top level modules:
+	registerfile_tb
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/StateRegister_tb.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/StateRegister_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module StateRegiste_tb
+
+Top level modules:
+	StateRegiste_tb
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ones_counter_mealy
+
+Top level modules:
+	ones_counter_mealy
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/shiftReg.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/shiftReg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shiftReg
+
+Top level modules:
+	shiftReg
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/Counter_tb.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/Counter_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter_tb
+
+Top level modules:
+	Counter_tb
+
+} {} {}} C:/altera/13.0sp1/ce213/lt/week5/StateRegister.v {1 {vlog -work work C:/altera/13.0sp1/ce213/lt/week5/StateRegister.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module StateRegister
+
+Top level modules:
+	StateRegister
+
+} {} {}}

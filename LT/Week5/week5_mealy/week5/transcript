@@ -1,0 +1,1735 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# OpenFile C:/altera/13.0sp1/ce213/lt/week5/countbit1.mpf 
+# Loading project countbit1
+quit -sim
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v failed with 2 errors.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# 17 compiles, 1 failed with 2 errors. 
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v failed with 2 errors.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# 17 compiles, 1 failed with 2 errors. 
+# Load canceled
+vsim -gui work.Counter_tb
+# vsim -gui work.Counter_tb 
+# Loading work.Counter_tb
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+add wave -position insertpoint sim:/Counter_tb/*
+run -all
+quit -sim
+vsim -gui work.Counter_tb
+# vsim -gui work.Counter_tb 
+# Loading work.Counter_tb
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+add wave -position insertpoint sim:/Counter_tb/*
+run -all
+# Compile of ControlUnit.v was successful.
+quit -sim
+# Compile of ControlUnit.v was successful.
+# Compile of ControlUnit.v failed with 1 errors.
+# Compile of ControlUnit.v was successful.
+# Compile of CU_tb.v failed with 1 errors.
+# Compile of CU_tb.v failed with 2 errors.
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v failed with 1 errors.
+# 18 compiles, 1 failed with 1 error. 
+# Compile of CU_tb.v was successful.
+vsim -gui work.CU_tb
+# vsim -gui work.CU_tb 
+# Loading work.CU_tb
+# Loading work.CU
+add wave -position insertpoint sim:/CU_tb/*
+run -all
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# 18 compiles, 0 failed with no errors. 
+vsim -gui work.CU_tb
+# vsim -gui work.CU_tb 
+# Loading work.CU_tb
+# Loading work.CU
+add wave -position insertpoint sim:/CU_tb/*
+run -all
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# 18 compiles, 0 failed with no errors. 
+vsim -gui work.CU_tb
+# vsim -gui work.CU_tb 
+# Loading work.CU_tb
+# Loading work.CU
+add wave -position insertpoint sim:/CU_tb/*
+run -all
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# 18 compiles, 0 failed with no errors. 
+vsim -gui work.CU_tb
+# vsim -gui work.CU_tb 
+# Loading work.CU_tb
+# Loading work.CU
+add wave -position insertpoint sim:/CU_tb/*
+run -all
+quit -sim
+# Compile of ones_counter_mealy.v failed with 1 errors.
+# Compile of ones_counter_mealy.v failed with 3 errors.
+# Compile of ones_counter_mealy.v failed with 1 errors.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+# ** Warning: (vsim-3015) C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy.v(20): [PCDPC] - Port size (4 or 4) does not match connection size (8) for port 'DataOut'. The port definition is at: C:/altera/13.0sp1/ce213/lt/week5/Counter.v(1).
+# 
+#         Region: /mealy_tb/ocm/cnt
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+# **** Error: LoadCompleteQ cmd: namespace inscope ::vsimwidgets::ViewMaster {::.view_master UpdateLoadComplete} sim
+# ****        invalid command name ""
+# invalid command name ""
+#     while executing
+# "$srcedit SourceUpdateLoadComplete"
+#     (object "::.view_master" method "::vsimwidgets::ViewMaster::UpdateLoadComplete" body line 7)
+#     invoked from within
+# "::.view_master UpdateLoadComplete sim"
+#     (in namespace inscope "::vsimwidgets::ViewMaster" script line 1)
+#     invoked from within
+# "namespace inscope ::vsimwidgets::ViewMaster {::.view_master UpdateLoadComplete} sim"
+#     ("eval" body line 1)
+#     invoked from within
+# "eval $p $tankNamespace "
+add wave -position insertpoint sim:/mealy_tb/*
+run -all
+quit -sim
+# Compile of ones_counter_mealy.v failed with 1 errors.
+# Compile of ones_counter_mealy.v failed with 1 errors.
+# Compile of ones_counter_mealy.v failed with 1 errors.
+# Compile of ones_counter_mealy.v failed with 1 errors.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+# ** Error: (vsim-3053) C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy_tb.v(12): Illegal output or inout port connection for "port 'current_data'".
+# 
+#         Region: /mealy_tb/ocm
+# ** Error: (vsim-3053) C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy_tb.v(12): Illegal output or inout port connection for "port 'Outbuf'".
+# 
+#         Region: /mealy_tb/ocm
+# ** Warning: (vsim-3015) C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy_tb.v(12): [PCDPC] - Port size (4 or 4) does not match connection size (8) for port 'Outbuf'. The port definition is at: C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy.v(2).
+# 
+#         Region: /mealy_tb/ocm
+# Error loading design
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+# ** Error: (vsim-3053) C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy_tb.v(12): Illegal output or inout port connection for "port 'current_data'".
+# 
+#         Region: /mealy_tb/ocm
+# Error loading design
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+# ** Error: (vsim-3053) C:/altera/13.0sp1/ce213/lt/week5/ones_counter_mealy_tb.v(13): Illegal output or inout port connection for "port 'current_data'".
+# 
+#         Region: /mealy_tb/ocm
+# Error loading design
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+add wave -position insertpoint sim:/mealy_tb/*
+run -all
+vsim -gui work.Counter_tb
+# vsim -gui work.Counter_tb 
+# Loading work.Counter_tb
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+add wave -position insertpoint sim:/Counter_tb/*
+run -all
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+add wave -position insertpoint sim:/mealy_tb/*
+run -all
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v failed with 1 errors.
+# 20 compiles, 1 failed with 1 error. 
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+add wave -position insertpoint sim:/mealy_tb/*
+run -all
+# ** Error: (vsim-3601) Iteration limit reached at time 515 ps.
+# 
+run -all
+# ** Error: (vsim-3601) Iteration limit reached at time 515 ps.
+# 
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+add wave -position insertpoint sim:/mealy_tb/*
+run -all
+# ** Error: (vsim-3601) Iteration limit reached at time 515 ps.
+# 
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors. 
+vsim -gui work.mealy_tb
+# vsim -gui work.mealy_tb 
+# Loading work.mealy_tb
+# Loading work.ones_counter_mealy
+# Loading work.DFF
+# Loading work.CU
+# Loading work.shiftReg
+# Loading work.Counter
+# Loading work.counter_1bit
+# Loading work.HAS
+# Loading work.D_flipflop
+# Loading work.D_latch2
+run -all
+add wave -position insertpoint sim:/mealy_tb/*
+run -all
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# Compile of week5_mealy.vo was successful.
+# 21 compiles, 0 failed with no errors. 
+# Load canceled
+run -all
+# Compile of register.v was successful.
+# Compile of register_tb.v was successful.
+# Compile of registerfile.v was successful with warnings.
+# Compile of registerfile_tb.v was successful.
+# Compile of StateRegister.v was successful.
+# Compile of DFF.v was successful.
+# Compile of D_latch.v was successful.
+# Compile of StateRegister_tb.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of shiftReg_tb.v was successful.
+# Compile of Counter_tb.v was successful.
+# Compile of D_flipflop.v was successful.
+# Compile of counter_1bit.v was successful.
+# Compile of HAS.v was successful.
+# Compile of Counter.v was successful.
+# Compile of D_latch2.v was successful.
+# Compile of CU_tb.v was successful.
+# Compile of ones_counter_mealy.v was successful.
+# Compile of ones_counter_mealy_tb.v was successful with warnings.
+# Compile of week5_mealy.vo was successful.
+# 21 compiles, 0 failed with no errors. 
+vsim -L C:/altera/13.0sp1/quartus/libraries/sim/cycloneii -gui work.mealy_tb
+# vsim -L C:/altera/13.0sp1/quartus/libraries/sim/cycloneii -gui work.mealy_tb 
+# Loading work.mealy_tb
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# Loading work.ones_counter_mealy
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(186): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(203): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(220): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(237): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(254): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(271): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(288): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(305): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(322): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(339): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(357): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(375): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(400): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(436): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(472): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(508): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(544): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(580): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(616): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(644): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(661): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(678): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(695): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(708): Instantiation of 'cycloneii_clkctrl' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(725): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(742): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(759): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(776): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(793): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(818): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(846): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(863): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(880): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(905): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(933): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(950): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(967): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(992): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1020): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1037): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1054): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1071): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1088): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1105): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1122): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1139): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1156): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1173): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1190): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1207): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1224): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1241): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1258): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1275): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1292): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1309): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1326): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1343): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1360): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1377): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1394): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1412): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1430): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1448): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1465): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1483): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1501): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1519): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1537): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1556): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1574): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1592): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1611): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1628): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1645): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1663): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1682): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1701): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1719): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1744): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1772): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1789): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1806): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1823): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1840): Instantiation of 'cycloneii_lcell_comb' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1865): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1901): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1937): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(1973): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2009): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2045): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2081): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2117): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2153): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2189): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2225): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2261): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2297): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2333): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2369): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2405): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-3033) C:/altera/13.0sp1/ce213/lt/week5/week5_mealy.vo(2441): Instantiation of 'cycloneii_io' failed. The design unit was not found.
+# 
+#         Region: /mealy_tb/ocm
+#         Searched libraries:
+# ** Error: (vsim-19) Failed to access library 'C:/altera/13.0sp1/quartus/libraries/sim/cycloneii' at "C:/altera/13.0sp1/quartus/libraries/sim/cycloneii".
+# 
+# No such file or directory. (errno = ENOENT)
+#             C:/altera/13.0sp1/ce213/lt/week5/work
+# Error loading design

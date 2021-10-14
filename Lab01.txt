@@ -1,0 +1,64 @@
+module FF_D(A,Clock,Control,Out_FF);
+input [2:0]A;
+output[2:0]Out_FF;
+input Control,Clock;
+reg [2:0]Out;
+
+reg [3:0] Out_Data;
+
+
+always @(posedge Clock)
+begin
+if(Control)
+Out_FF = A;
+else
+Out_FF = Out_FF+1;
+end
+
+
+always @(A)
+begin
+if(Out_Data == 7)
+Out_Data =0;
+else
+Out_Data = Out_Data+1;
+end
+endmodule
+
+module Encoder(A,Out_En);
+input [3:0]A;
+output[2:0]Out_En;
+wire [3:0]A;
+reg [2:0]Out_En;
+always @(A)
+begin
+   
+    Out_En[2]=(~A[3]&~A[2]& A[1] & A[0]) | (~A[3]&A[2]& ~A[1] & ~A[0]);
+    Out_En[1]=(~A[3]&~A[2]& A[1]) |(~A[3]&A[2]& ~A[1] & A[0]);
+	 Out_En[0]=(~A[3]&~A[2]& A[1]) | (~A[3]&A[2]& ~A[1] & ~A[0]) |(A[3] & ~A[2] & ~A[1] & A[0]);
+end
+endmodule
+
+module Decoder(A,Out_De);
+input [2:0]A;
+output[3:0]Out_De;
+wire [2:0]A;
+reg [3:0]Out_De;
+always @(A)
+begin
+    Out_De[3]=(!A[2]) & (!A[1]) & A[0];
+    Out_De[2]=(A[1] & (!A[0])) | (A[2] & (!A[1]) & (A[0]));
+    Out_De[1]=(A[1] & A[0]) | (A[2]&(!A[1])&(!A[0]));
+    Out_De[0]=((!A[2])& (!A[1]) )|((!A[2])&(!A[0]))|(A[2] & A[1]); 
+end
+endmodule
+
+module Bodemdongbo(data,CLK,Load,out); //module chinh
+input [3:0]data;
+input Load,CLK;
+output [3:0]out;
+wire [2:0]En_Reg,Reg_De;
+Encoder inst1(data,En_Reg);
+FF_D inst2(En_Reg,CLK,Load,Reg_De);
+Decoder inst3(Reg_De,out);
+endmodule 

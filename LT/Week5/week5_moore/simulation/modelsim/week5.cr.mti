@@ -1,0 +1,15 @@
+{C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/Moore_tb.v} {1 {vlog -work work {C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/Moore_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Moore_tb
+
+Top level modules:
+	Moore_tb
+
+} {} {}} {C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/week5.vo} {1 {vlog -work work {C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/week5.vo}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Moore
+
+Top level modules:
+	Moore
+
+} {} {}}

@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0
+vMoore
+Z1 !s100 >OGZFdP0h]Q]PW<?1<eCb2
+Z2 IoA@jV5EWFhKAjNX3@BgI23
+Z3 V6kQA5[ManX[?GkYD[Bi]13
+Z4 dC:\Users\Zedge Mobile\Desktop\Week5\simulation\modelsim
+Z5 w1634030468
+Z6 8C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/week5.vo
+Z7 FC:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/week5.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/week5.vo|
+Z10 o-work work -O0
+Z11 n@moore
+!i10b 1
+!s85 0
+Z12 !s108 1634036101.542000
+Z13 !s107 C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/week5.vo|
+!s101 -O0
+vMoore_tb
+!i10b 1
+!s100 fEYZRn62GPSHYifBgVOX:0
+IMU<Yzf9l[lToHVCKOlGKP2
+Z14 V=l5bL=C9[5ICSISACo_H53
+R4
+w1634036098
+Z15 8C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/Moore_tb.v
+Z16 FC:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/Moore_tb.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1634036101.741000
+!s107 C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/Moore_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/Zedge Mobile/Desktop/Week5/simulation/modelsim/Moore_tb.v|
+!s101 -O0
+R10
+Z18 n@moore_tb
