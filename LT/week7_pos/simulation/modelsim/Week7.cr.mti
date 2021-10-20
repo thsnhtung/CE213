@@ -1,0 +1,15 @@
+{C:/Users/Zedge Mobile/Desktop/week7_pos/simulation/modelsim/Week7.vo} {1 {vlog -work work {C:/Users/Zedge Mobile/Desktop/week7_pos/simulation/modelsim/Week7.vo}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module main_circuit
+
+Top level modules:
+	main_circuit
+
+} {} {}} {C:/Users/Zedge Mobile/Desktop/week7_pos/simulation/modelsim/main_circuit.v} {1 {vlog -work work {C:/Users/Zedge Mobile/Desktop/week7_pos/simulation/modelsim/main_circuit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module main_circuit
+
+Top level modules:
+	main_circuit
+
+} {} {}}
