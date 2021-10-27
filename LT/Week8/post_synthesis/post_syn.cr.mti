@@ -1,0 +1,15 @@
+C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Traffic_light_system_tb
+
+Top level modules:
+	Traffic_light_system_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/LT/Week8/post_synthesis/Traffic_light_system.vo {1 {vlog -work work C:/Users/Asus/Desktop/CE213/LT/Week8/post_synthesis/Traffic_light_system.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Traffic_light_system
+
+Top level modules:
+	Traffic_light_system
+
+} {} {}}

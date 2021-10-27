@@ -1,0 +1,92 @@
+C:/Users/Asus/Desktop/CE213/TH/Lab2/MealyDecoder.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/MealyDecoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MealyDecoder
+
+Top level modules:
+	MealyDecoder
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/Moore_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/Moore_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Moore_tb
+
+Top level modules:
+	Moore_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/DFF_3bit.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/DFF_3bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DFF_3bit
+
+Top level modules:
+	DFF_3bit
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/NextState_Moore.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/NextState_Moore.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module NextState__Moore
+
+Top level modules:
+	NextState__Moore
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/Moore.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/Moore.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Moore
+
+Top level modules:
+	Moore
+
+} {} {}} C:/Users/Asus/Desktop/Queue/D_flipflop.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/D_flipflop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_flipflop
+
+Top level modules:
+	D_flipflop
+
+} {} {}} C:/Users/Asus/Desktop/Queue/D_latch.v {1 {vlog -work work C:/Users/Asus/Desktop/Queue/D_latch.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_latch
+
+Top level modules:
+	D_latch
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/Mealy_tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/Mealy_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mealy_tb
+
+Top level modules:
+	Mealy_tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/tb.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/NextState_Mealy.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/NextState_Mealy.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module NextState__Mealy
+
+Top level modules:
+	NextState__Mealy
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/MooreDecoder.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/MooreDecoder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MooreDecoder
+
+Top level modules:
+	MooreDecoder
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/Mealy.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/Mealy.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mealy
+
+Top level modules:
+	Mealy
+
+} {} {}} C:/Users/Asus/Desktop/CE213/TH/Lab2/DFF_4bit.v {1 {vlog -work work C:/Users/Asus/Desktop/CE213/TH/Lab2/DFF_4bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DFF_4bit
+
+Top level modules:
+	DFF_4bit
+
+} {} {}}

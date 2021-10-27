@@ -1,0 +1,199 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vcounter
+Z1 !s100 ^khN5B=DUhA;_6dY`6fAD3
+Z2 IjaBU4E14Yc8aNeg;ja<]60
+Z3 V3=JYB7P?YZO6NSK3mb7>m0
+Z4 dC:\Users\Asus\Desktop\CE213\LT\Week8
+Z5 w1635306986
+Z6 8C:/Users/Asus/Desktop/CE213/LT/Week8/counter.v
+Z7 FC:/Users/Asus/Desktop/CE213/LT/Week8/counter.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/counter.v|
+Z10 o-work work -O0
+Z11 !s108 1635308627.778000
+Z12 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter_tb
+Z13 !s100 5Cg4hYS7]?d`G@z1>1M0U0
+Z14 IchFBQaO]CeINMY2CUAPj=0
+Z15 V8PY5S91>5X0>OnNHn4U263
+R4
+Z16 w1635307265
+Z17 8C:/Users/Asus/Desktop/CE213/LT/Week8/counter_tb.v
+Z18 FC:/Users/Asus/Desktop/CE213/LT/Week8/counter_tb.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/counter_tb.v|
+R10
+Z20 !s108 1635308627.820000
+Z21 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/counter_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder
+Z22 !s100 JhlHbH^cG0ihZe8KQn[2Z2
+Z23 IFNZ?^YFN77GjJX^8o<h>Y0
+Z24 V8c@Fz2N>[JG>QR71^XJ0G3
+R4
+Z25 w1635308487
+Z26 8C:/Users/Asus/Desktop/CE213/LT/Week8/decoder.v
+Z27 FC:/Users/Asus/Desktop/CE213/LT/Week8/decoder.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/decoder.v|
+R10
+Z29 !s108 1635308627.950000
+Z30 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_tb
+Z31 !s100 0b7e4;1N:hLWEzlk[=L733
+Z32 IehX;V6YzchR3cJE`JVYXh3
+Z33 VO2oNFaVMJ:AIPR3L34_Hd3
+R4
+Z34 w1635308470
+Z35 8C:/Users/Asus/Desktop/CE213/LT/Week8/decoder_tb.v
+Z36 FC:/Users/Asus/Desktop/CE213/LT/Week8/decoder_tb.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/decoder_tb.v|
+R10
+Z38 !s108 1635308627.994000
+Z39 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/decoder_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_counter
+Z40 !s100 8>_b4Q6H?QP78F]QHKADA1
+Z41 I5iQ9Wb?I]WEUlbzAi6_PZ3
+Z42 V;1V`gmiLUhbdATzm[iVCC2
+R4
+Z43 w1635304466
+Z44 8C:/Users/Asus/Desktop/CE213/LT/Week8/test_counter.v
+Z45 FC:/Users/Asus/Desktop/CE213/LT/Week8/test_counter.v
+L0 1
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/test_counter.v|
+R10
+Z47 !s108 1635308627.863000
+Z48 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/test_counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_counter_tb
+Z49 !s100 Kdn^DzJCgmYNada`ITEM;1
+Z50 IDTHkVVT=Al]2Fd8Jjz5=e3
+Z51 Vhb5>S7F5jf8J0=8MOR96O1
+R4
+Z52 w1635305015
+Z53 8C:/Users/Asus/Desktop/CE213/LT/Week8/test_counter_tb.v
+Z54 FC:/Users/Asus/Desktop/CE213/LT/Week8/test_counter_tb.v
+L0 1
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/test_counter_tb.v|
+R10
+Z56 !s108 1635308627.907000
+Z57 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/test_counter_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTraffic_light
+Z58 Ii1VE[jJmXdP7`Z^_3MSBd0
+Z59 V5l=aL?AnhShj9jBk^DJa52
+R4
+Z60 w1635308625
+Z61 8C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light.v
+Z62 FC:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light.v
+L0 1
+R8
+r1
+31
+Z63 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light.v|
+R10
+Z64 n@traffic_light
+Z65 !s100 LZNbYa1BN1>13=:0Y]h2:2
+Z66 !s108 1635308628.037000
+Z67 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTraffic_light_system
+Z68 !s100 PXh2<>0QHZWX?GN@l>P;51
+Z69 I;@F9V?7:Ll]QiXEe<Y8672
+Z70 V2<lVJn^XTGjYdD6^4DgS11
+R4
+Z71 w1635308498
+Z72 8C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system.v
+Z73 FC:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system.v
+L0 1
+R8
+r1
+31
+Z74 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system.v|
+R10
+Z75 n@traffic_light_system
+!i10b 1
+!s85 0
+Z76 !s108 1635308628.122000
+Z77 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system.v|
+!s101 -O0
+vTraffic_light_system_tb
+!i10b 1
+Z78 !s100 aGQOAB3mP3T<X`cjOCE>E1
+Z79 IS>SRF3c_S<UCEH`1>HllD3
+Z80 VJ=A][W;eU?FWk2kGV0Z6E2
+R4
+Z81 w1635306594
+Z82 8C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v
+Z83 FC:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1635308628.165000
+!s107 C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v|
+Z84 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v|
+!s101 -O0
+R10
+Z85 n@traffic_light_system_tb
+vTraffic_light_tb
+Z86 !s100 HihFhkQ[_zbDaHIPPk?nD3
+Z87 IT;lU364`Mb??KjWY_Ogof0
+Z88 VB2[P?GlO:cg5SQVPe:j^H3
+R4
+Z89 w1635308584
+Z90 8C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_tb.v
+Z91 FC:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_tb.v
+L0 1
+R8
+r1
+31
+Z92 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_tb.v|
+R10
+Z93 n@traffic_light_tb
+Z94 !s108 1635308628.079000
+Z95 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0

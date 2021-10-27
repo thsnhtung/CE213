@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vTraffic_light_system
+Z1 !s100 <W2<3f>1:5dlG8[2Sb^UL1
+Z2 Ij885aXLkh53E=gIXKl7CP2
+Z3 VNJjo^35Tob6]7bB;N:;`?0
+Z4 dC:\Users\Asus\Desktop\CE213\LT\Week8\post_synthesis
+Z5 w1635309276
+Z6 8C:/Users/Asus/Desktop/CE213/LT/Week8/post_synthesis/Traffic_light_system.vo
+Z7 FC:/Users/Asus/Desktop/CE213/LT/Week8/post_synthesis/Traffic_light_system.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/post_synthesis/Traffic_light_system.vo|
+Z10 o-work work -O0
+Z11 n@traffic_light_system
+!i10b 1
+!s85 0
+Z12 !s108 1635310076.005000
+Z13 !s107 C:/Users/Asus/Desktop/CE213/LT/Week8/post_synthesis/Traffic_light_system.vo|
+!s101 -O0
+vTraffic_light_system_tb
+!i10b 1
+Z14 !s100 WMP<FR99U_g_8ee7Seco`0
+Z15 I9_LFi`TnAHb833A1:FO[?3
+Z16 VJ=A][W;eU?FWk2kGV0Z6E2
+R4
+Z17 w1635310066
+Z18 8C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v
+Z19 FC:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1635310076.050000
+!s107 C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/Asus/Desktop/CE213/LT/Week8/Traffic_light_system_tb.v|
+!s101 -O0
+R10
+Z21 n@traffic_light_system_tb

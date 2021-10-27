@@ -1,0 +1,17 @@
+module Moore(Input, CLK, isTrue, Reset);
+  input [3:0] Input;
+  input CLK;
+  input Reset;
+  output isTrue;
+
+  wire [3:0]State_Q;
+  wire [3:0]NextState_D;
+
+NextState__Moore(.Input(Input), .State(State_Q), .NextState(NextState_D));
+DFF_4bit(.Q(State_Q), .D(NextState_D), .CLK(CLK), .Clear(Reset));
+
+
+MooreDecoder(.State(State_Q), .Output(isTrue));
+
+
+endmodule

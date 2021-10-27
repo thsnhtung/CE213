@@ -1,4 +1,4 @@
-`timescale 1ns/1ps
+`timescale 100ns/1ps
 module main_circuit_tb();
 parameter n=8;
 reg clk,Start;
